@@ -1,0 +1,2238 @@
+Page 1:
+ 
+ 
+ 
+ETATS FINANCIERS INTERMEDIAIRES 
+ 
+ARAB TUNISIAN BANK –ATB- 
+Siège Social : 9,rue Hédi Nouira -1001 Tunis- 
+ 
+L’Arab Tunisian Bank publie ci-dessous ses états financiers intermédiaires arrêtés au 30 juin 2024. Ces 
+états sont accompagnés du rapport d’examen limité des commissaires aux comptes, Mr. Mohamed 
+Lassaad BORJI (Les Commissaires aux Comptes Associés MTBF) et Mr. Zied CHAHED (CPA Tunisie). 
+ 
+Bilan 
+Arrêté au 30 JUIN 2024 
+ (Unité : en 1000 DT) 
+  
+Notes 
+30.06.2024 
+30.06.2023 
+31.12.2023 
+  
+  
+  
+  
+ 
+ACTIF 
+ 
+ 
+AC1 Caisse et avoirs auprès de la BCT et CCP  
+1 
+90 868 
+80 761 
+74 536 
+AC2 Créances sur les établissements bancaires et 
+financiers 
+2 
+826 111 
+806 575 
+908 701 
+AC3 Créances sur la clientèle 
+3 
+5 385 740 
+5 399 475 
+5 366 376 
+AC4 Portefeuille-titres commercial 
+- 
+- 
+- 
+AC5 Portefeuille d’investissement 
+4 
+947 926 
+1 196 039 
+997 459 
+AC6 Valeurs immobilisées 
+5 
+160 432 
+132 475 
+152 878 
+AC7 Autres actifs 
+6 
+132 620 
+149 860 
+131 426 
+TOTAL ACTIF 
+  
+7 543 697 
+7 765 185 
+7 631 376 
+  
+  
+ 
+ 
+PASSIF 
+ 
+ 
+PA1 Banque centrale et CCP 
+36 000 
+260 000 
+10 000 
+PA2 Dépôts et avoirs des établissements bancaires et 
+financiers 
+7 
+62 615 
+278 517 
+118 065 
+PA3 Dépôts et avoirs de la clientèle 
+8 
+ 6 275 785 
+ 5 925 562 
+6 349 083 
+PA4 Emprunts et ressources spéciales 
+9 
+392 398 
+483 785 
+394 875 
+PA5 Autres passifs 
+10 
+207 048 
+240 110 
+201 911 
+TOTAL PASSIF 
+  
+6 973 846 
+7 187 974 
+7 073 934 
+  
+  
+ 
+ 
+CAPITAUX PROPRES 
+11 
+ 
+ 
+CP1 Capital 
+128 000 
+128 000 
+128 000 
+CP2 Réserves 
+495 087 
+495 087 
+495 087 
+CP5 Résultats reportés 
+(65 645) 
+(56 239) 
+(56 239) 
+CP6 Résultat de l’exercice 
+12 409 
+10 363 
+(9 406) 
+TOTAL CAPITAUX PROPRES 
+  
+569 851 
+577 211 
+557 442 
+  
+  
+ 
+ 
+TOTAL PASSIF ET CAPITAUX PROPRES 
+  
+7 543 697 
+7 765 185 
+7 631 376 
+AVIS DES SOCIETES 
+
+
+Page 2:
+Etat des engagements hors bilan 
+Arrêté au 30 JUIN 2024 
+ (Unité : en 1000 DT) 
+ 
+ 
+ 
+  
+30.06.2024  30.06.2023  31.12.2023  
+  
+  
+  
+  
+PASSIFS EVENTUELS  
+HB01 Cautions, avals et autres garanties données  
+    814 751      923 365      717 810  
+HB02 Crédits documentaires  
+    311 732      306 629      264 524  
+HB03 Actifs donnés en garantie  
+     19 000      260 000       10 000  
+  
+  
+  
+  
+TOTAL PASSIFS EVENTUELS  
+1 145 483  1 489 994      992 334  
+ENGAGEMENTS DONNES  
+HB04 Engagements de financement donnés  
+    540 998      350 837      416 503  
+HB05 Engagements sur titres  
+-  
+-  
+-  
+  
+  
+  
+  
+TOTAL ENGAGEMENTS DONNES  
+    540 998      350 837      416 503  
+  
+  
+  
+  
+ENGAGEMENTS RECUS  
+  
+  
+  
+  
+HB06 Garanties reçues  
+1 530 011  1 607 248  1 450 112  
+  
+  
+  
+  
+TOTAL GARANTIES RECUES 
+1 530 011  1 607 248  1 450 112  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Page 3:
+Etat de résultat 
+Période du 1er janvier 2024 au 30 juin 2024 
+(Unité : en 1000 DT) 
+ 
+  
+Note 
+Période du 
+01.01.2024 au 
+30.06.2024 
+Période du 
+01.01.2023 au 
+30.06.2023 
+Exercice 
+2023 
+PRODUITS D’EXPLOITATION BANCAIRE 
+  
+  
+  
+  
+PR1 Intérêts et revenus assimilés 
+12 
+293 966 
+267 388 
+573 118 
+PR2 Commissions (en produits) 
+13 
+41 319 
+42 914 
+89 404 
+PR3 Gains sur portefeuille-titres commercial et 
+opérations financières 
+14 
+8 433 
+9 806 
+17 742 
+PR4 Revenus du portefeuille d’investissement 
+15 
+42 731 
+44 777 
+83 072 
+Total produits d’exploitation bancaire 
+  
+386 449 
+364 885 
+763 336 
+CHARGES D’EXPLOITATION BANCAIRE 
+ 
+ 
+CH1 Intérêts encourus et charges assimilées 
+16 
+196 797 
+191 172 
+392 209 
+CH2 Commissions encourues 
+  
+7 363 
+6 370 
+13 810 
+Total charges d’exploitation bancaire 
+  
+204 160 
+197 542 
+406 019 
+  
+  
+  
+  
+ 
+PRODUIT NET BANCAIRE 
+  
+182 289 
+167 343 
+357 317 
+PR5/CH4 Dotations aux provisions et résultat des 
+corrections de valeurs sur créances, hors bilan et 
+passif 
+17 
+(34 826) 
+(33 845) 
+(124 149) 
+PR6/CH5 Dotations aux provisions et résultat des 
+corrections de valeurs sur portefeuille 
+d'investissement 
+18 
+(4 470) 
+(5 288) 
+(8 136) 
+PR7 Autres produits d’exploitation 
+72 
+72 
+142 
+CH6 Frais de Personnel 
+19 
+(70 394) 
+(65 785) 
+(131 967) 
+CH7 Charges générales d’exploitation 
+20 
+(37 899) 
+(37 300) 
+(79 944) 
+CH8 Dotations aux amortissements et aux   
+Provisions sur immobilisations 
+  
+(8 582) 
+(9 358) 
+(19 450) 
+RESULTAT D’EXPLOITATION 
+  
+26 190 
+15 839 
+(6 187)  
+PR8/CH9 Solde en gain \ perte provenant des 
+autres éléments ordinaires 
+ 
+(4 420) 
+105 
+(1 639) 
+CH11 Impôt sur les bénéfices 
+  
+(9 361) 
+(5 581) 
+(1 570) 
+RESULTAT DES ACTIVITES ORDINAIRES 
+  
+12 409 
+10 363 
+(9 396) 
+PR9/CH10 Solde en gain\perte provenant des 
+éléments extraordinaires 
+  
+- 
+- 
+(10) 
+RESULTAT NET DE LA PERIODE 
+  
+12 409 
+10 363 
+(9 406) 
+Effets des modifications comptables (nets 
+d’impôts) 
+  
+- 
+- 
+- 
+RESULTAT APRES MODIFICATIONS 
+COMPTABLES 
+  
+12 409 
+10 363 
+(9 406) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Page 4:
+Etat des flux de trésorerie 
+Période du 1er janvier 2024 au 30 juin 2024 
+ (Unité : en 1000 DT) 
+ 
+  
+Note 
+Période du 
+01.01.2024 au 
+30.06.2024 
+Période du 
+01.01.2023 au 
+30.06.2023 
+Exercice 
+2023 
+ACTIVITES D’EXPLOITATION 
+ 
+ 
+ 
+ 
+Produits d’exploitation bancaire encaissés 
+ 
+590 246 
+320 127 
+680 723 
+Charges d’exploitation bancaire décaissées 
+(196 030) 
+(188 281) 
+(397 260) 
+Dépôts \ Retraits de dépôts auprès d’autres 
+établissements bancaires et financiers 
+ 
+824 
+6 295 
+510 
+Prêts et avances \ Remboursement prêts et avances 
+accordés à la clientèle 
+ 
+(293 300) 
+18 818 
+50 253 
+Dépôts \ Retraits de dépôts de la clientèle 
+(83 705) 
+(302 349) 
+119 064 
+Sommes versées au personnel et créditeurs divers 
+(84 254) 
+(80 439) 
+(137 851) 
+Autres flux de trésorerie provenant des activités 
+d’exploitation 
+ 
+(39 245) 
+72 333 
+(73 961) 
+Impôt sur les sociétés 
+  
+(1 175) 
+(7 675) 
+(14 206) 
+FLUX DE TRESORERIE NET LIES AUX ACTIVITES 
+D’EXPLOITATION 
+  
+(106 639) 
+(161 171) 
+227 272 
+  
+  
+ 
+ACTIVITES D’INVESTISSEMENT 
+ 
+Intérêts et dividendes encaissés sur portefeuille 
+d’investissement 
+ 
+43 300 
+52 311 
+86 190 
+Acquisitions \ Cessions sur portefeuille 
+d’investissement 
+ 
+43 132 
+101 077 
+299 614 
+Acquisitions \ Cessions sur immobilisations 
+  
+(13 998) 
+(4 748) 
+(31 068) 
+FLUX DE TRESORERIE NET PROVENANT DES 
+ACTIVITES D’INVESTISSEMENT 
+  
+72 434 
+148 639 
+354 736 
+ 
+ACTIVITES DE FINANCEMENT 
+  
+ 
+Emission des emprunts 
+21 715 
+78 668 
+- 
+Remboursement d'emprunts 
+(12 625) 
+(12 831) 
+(33 739) 
+Augmentation \ diminution ressources spéciales 
+(10 868) 
+1 938 
+13 934 
+Dividendes versés 
+  
+- 
+- 
+- 
+FLUX DE TRESORERIE NET LIES AUX ACTIVITES DE 
+FINANCEMENT 
+  
+(1 778) 
+67 775 
+(19 805) 
+ 
+Variation nette des liquidités et équivalents de 
+liquidités au cours de la période 
+ 
+(35 983) 
+55 243 
+562 203 
+Liquidités et équivalents de liquidités en début 
+d’exercice 
+  
+819 832 
+257 629 
+257 629 
+LIQUIDITES ET EQUIVALENTS DE LIQUIDITES EN 
+FIN DE LA PERIODE 
+21 
+783 849 
+312 872 
+819 832 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Page 5:
+NOTES AUX ETATS FINANCIERS 
+AU 30 JUIN 2024 
+1. REFERENTIEL D’ELABORATION ET DE PRESENTATION DES ETATS FINANCIERS 
+ 
+Les états financiers intermédiaires de l’Arab Tunisian Bank, arrêtés au 30 juin 2024, sont élaborés et 
+présentés d’une part conformément aux principes comptables généralement admis en Tunisie 
+notamment les normes comptables (NCT 21 à 25) relatives aux établissements bancaires et applicables 
+à partir du 1er janvier 1999, et d’autre part conformément aux notes et aux circulaires de la Banque 
+Centrale de Tunisie. 
+ 
+2. METHODES COMPTABLES APPLIQUEES 
+ 
+Les états financiers de l’Arab Tunisian Bank sont élaborés sur la base de la mesure des éléments du 
+patrimoine au coût historique. 
+Les principes comptables les plus significatifs se résument comme suit : 
+ 
+ 
+Règles de prise en compte des revenus 
+ 
+Les revenus sont pris en compte en résultat de façon à les rattacher à l’exercice au cours duquel ils 
+sont courus, sauf si leur encaissement effectif n’est pas raisonnablement assuré. 
+ 
+Rattachement des intérêts :  
+Les intérêts et agios sont comptabilisés parmi les produits de l’exercice à mesure qu’ils sont courus 
+sur la base du temps écoulé. 
+Cette règle s’applique à l’ensemble des intérêts contractuels qui couvrent les intérêts prévus dans 
+l’échéancier de remboursement ainsi que les intérêts de retard. 
+ 
+Les intérêts et agios réservés :  
+Les intérêts et agios dont le recouvrement est devenu incertain, constatés lors de l’évaluation des actifs 
+et couverture des risques, sont logés dans un compte de passif intitulé « agios réservés ». 
+La banque a établi ses critères de réservation d’agios sur la base de l’article 9 de la circulaire BCT n° 
+91-24 qui prévoit que les intérêts et les agios débiteurs relatifs aux créances classées dans les classes 
+2, 3 et 4 ne doivent être comptabilisés en chiffre d’affaires qu’au moment de leur encaissement. Ainsi, 
+tout intérêt ayant été précédemment comptabilisé mais non payé est déduit du résultat et comptabilisé 
+en agios réservés. 
+ 
+Commissions :  
+Les commissions sont prises en compte dans le résultat : 
+ Lorsque le service est rendu 
+ À mesure qu’elles sont courues sur la période couverte par l’engagement ou la durée de 
+réalisation du crédit. 
+Evaluation des engagements et des provisions y afférentes 
+ 
+Evaluation des engagements 
+Pour l’arrêté des états financiers au 30 juin 2024, il a été procédé à l’évaluation des engagements et la 
+détermination des provisions y afférentes conformément à la Circulaire de la Banque Centrale de 
+Tunisie N° 91-24 du 17 décembre 1991 telle que modifiée et complétée par les textes subséquents. 
+Les classes de risque sont définies de la manière suivante : 
+ 
+Actifs courants (Classe 0) : Sont considérés comme actifs courants, les actifs dont la 
+réalisation ou le recouvrement intégral dans les délais paraît assuré ; 
+ 
+Actifs nécessitant un suivi particulier (Classe 1) : Font partie de la classe 1, tous les actifs 
+dont la réalisation ou le recouvrement intégral dans les délais est encore assuré ; 
+ 
+Actifs incertains (Classe 2) : Font partie de la classe 2, tous les actifs dont la réalisation ou le 
+recouvrement intégral dans les délais est incertain ; 
+ 
+Actifs préoccupants (Classe 3) : Font partie de la classe 3 tous les actifs dont la réalisation 
+ou le recouvrement est menacé ; 
+ 
+Actifs compromis (Classe 4) : Font partie de cette classe les créances pour lesquelles les 
+retards de paiement sont supérieurs à 360 jours, les actifs restés en suspens pour un délai 
+supérieur à 360 jours ainsi que les créances contentieuses. 
+
+
+Page 6:
+Il est à noter qu’au 30 juin 2024, les engagements de certaines relations qui ont fait l'objet de décisions 
+de gel d'avoir ou de confiscation ont été majoritairement maintenues parmi les actifs nécessitant un 
+suivi particulier. Ce traitement est justifié par l’indisponibilité des informations nécessaires pour statuer 
+sur la classe de risque à retenir. L’engagement total de ces sociétés se détaille comme suit : 
+  
+Engagement  
+Provisions  
+Agios 
+réservés  
+Taux de 
+couverture  
+Engagements classés en 1  
+           61 162  
+                    -  
+           17 778  
+29% 
+Engagements classés en 2  
+           16 459  
+             2 165  
+             1 273  
+21% 
+Engagements classés en 3  
+             2 560  
+             1 069  
+                423  
+58% 
+Total  
+           80 181  
+             3 234  
+           19 474  
+28% 
+ 
+Par ailleurs, au 30 juin, les engagements inférieurs à 100 mille DT ne font l'objet d'une étude au cas par 
+cas. Pour la classification de ces créances, la banque retient le minimum entre la classe mécanique et la 
+classe déterminée au 31 décembre de l’année précédente. 
+La banque effectue une analyse de cohérence pour s’assurer que, même avec la classe ainsi 
+déterminée, le taux de couverture sur une base d’une classification purement mécanique reste à un 
+niveau acceptable. 
+En effet, en couverture des risques liés aux engagements inférieurs à 100 mille DT, la banque a 
+constitué des provisions et des produits réservés d'un montant total de 87 millions de DT ce qui 
+représente un taux de couverture de 91% des engagements classés parmi les actifs incertains, 
+préoccupants ou compromis totalisant 96 millions de DT sachant que les concours mécaniquement 
+classables dans ces catégories totalisent un montant de 121,4 millions de DT au 30 juin 2024. Le taux de 
+couverture sur une base de classification mécanique est donc de 72%. 
+ 
+Provisions 
+ Provisions individuelles sur les engagements supérieurs à 100 mille DT : 
+Les provisions requises sur les actifs classés sont déterminées selon les taux prévus par la Banque 
+Centrale de Tunisie dans la circulaire n°91-24 et sa note aux banques n°93 23. L'application de la 
+réglementation prudentielle conduit à retenir des taux de provision prédéterminés par classe d'actif. 
+Les taux se présentent comme suit :  
+Classe de risque 
+Taux de provision 
+Classe 0 et 1 
+0% 
+Classe 2 
+20% 
+Classe 3 
+50% 
+Classe 4 
+100% 
+ 
+Ces provisions sont constituées individuellement sur les créances auprès de la clientèle. 
+ 
+ 
+ Provisions collectives : 
+En application des dispositions de la circulaire aux banques n°91-24, la banque a procédé à la 
+comptabilisation par prélèvement sur les résultats, des provisions à caractère général dites 
+« provisions collectives ». Ces provisions ont été constituées en couverture des risques latents sur les 
+engagements courants (Classe 0) et des engagements nécessitant un suivi particulier (Classe 1) au 
+sens de l’article 8 de la circulaire n°91-24. Ces provisions ont été déterminées en se basant sur les 
+règles prévues par l’annexe 3 à la circulaire n°91-24 du 17 Décembre 1991 telle que modifiée et 
+complétée par les textes subséquents. 
+La méthodologie adoptée par la banque a consisté au : 
+- 
+Regroupement des engagements classés 0 et 1 en groupes homogènes par nature de débiteur et 
+par secteur d’activité ; 
+- 
+Calcul d’un taux de migration moyen pour chaque groupe qui correspond aux risques additionnels 
+du groupe considéré en N rapporté aux engagements 0 et 1 du même groupe de l’année N-1. Les 
+taux de migration moyens ont été calculés sur un historique de 7 ans les plus récents y compris 
+l’année de référence et compte non tenu de l’année 2020. 
+- 
+Majoration des taux de migration historiques calculés par la banque par des pourcentages fournis 
+par la circulaire n°91-24. 
+- 
+L’application des taux de provisionnements minimaux proposés par la circulaire aux banques n°91-
+24. 
+ 
+
+
+Page 7:
+ 
+ Provisions sur actifs ayant une ancienneté dans la classe 4 supérieure ou égale à 3ans : 
+En application des dispositions de la circulaire aux banques n°91-24, la banque a procédé à la 
+comptabilisation par prélèvement sur les résultats et des capitaux propres, des provisions 
+additionnelles. Ces provisions ont été constituées en couverture du risque net sur les engagements 
+ayant une ancienneté dans la classe 4 supérieure ou égale à 3 ans. Ces provisions ont été déterminées 
+conformément aux quotités minimales de ladite circulaire : 
+- 
+40% pour les engagements ayant une ancienneté dans la classe 4 de 3 à 5 ans. 
+- 
+70% pour les engagements ayant une ancienneté dans la classe 4 de 6 et 7 ans. 
+- 
+100% pour les engagements ayant une ancienneté dans la classe 4 supérieure ou égale à 8 ans. 
+Ce taux est appliqué au risque net non couvert soit le montant de l’engagement déduction faite : 
+- 
+des agios réservés ; 
+- 
+des garanties reçues de l’Etat, des organismes d’assurance et des établissements de crédit ; 
+- 
+des garanties sous forme de dépôts ou d’actifs financiers susceptibles d’être liquidés sans que 
+leur valeur soit affectée ; 
+- 
+des provisions constituées conformément aux dispositions de l’article 10 de la circulaire aux 
+établissements de crédit n°91-24. 
+ 
+ Provisions sur éléments d’actifs : 
+Les provisions pour dépréciation des éléments d’actifs sont présentées à l’actif du bilan de la banque, 
+en déduction du poste s’y rapportant (créances sur la clientèle, portefeuille titres…). 
+Règles de classification et d’évaluation des titres et constatation des revenus y afférents 
+Classement des titres 
+Le portefeuille titres est composé du portefeuille commercial et du portefeuille d’investissement. 
+Le portefeuille-titres commercial  
+Titres de transaction : titres à revenu fixe ou variable acquis en vue de leur revente à brève échéance et 
+dont le marché de négociation est jugé liquide ; 
+Titres de placement : ce sont les titres acquis avec l’intention de les détenir à court terme durant une 
+période supérieure à 3 mois ; 
+Le portefeuille d’investissement  
+- 
+Titres d’investissement : les titres acquis avec l’intention ferme de les détenir en principe 
+jusqu’à leur échéance et dont la banque dispose de moyens suffisants pour concrétiser cette 
+intention ; 
+- 
+Titres de participation : actions et autres titres à revenu variable détenus pour en retirer une 
+rentabilité satisfaisante sur une longue période, ou pour permettre la poursuite des relations 
+bancaires avec la société émettrice ; 
+- 
+Parts dans les entreprises associées et co-entreprises et parts dans les entreprises liées : les 
+titres dont la possession durable est estimée utile à l’activité de la banque, permettant ou non 
+d’exercer une influence notable, un contrôle conjoint ou exclusif sur la société émettrice. 
+Evaluation des titres  
+Les titres sont comptabilisés à la date d’acquisition pour leur coût d’acquisition tous frais et charges 
+exclus à l’exception des honoraires d’étude et de conseil engagés à l’occasion de l’acquisition de titres 
+d’investissement, de participation ou de parts dans les entreprises associées et les co-entreprises et 
+parts dans les entreprises liées. 
+Les participations souscrites et non libérées sont enregistrées en engagements hors bilan pour leur 
+valeur d’émission. 
+A la date d’arrêté, il est procédé à l’évaluation des titres comme suit :  
+- 
+Les titres de transaction : Ces titres sont évalués à la valeur de marché (le cours boursier 
+moyen pondéré). La variation du cours consécutif à leur évaluation à la valeur de marché est 
+portée en résultat. 
+- 
+Les titres de placement : Ces titres sont valorisés pour chaque titre séparément à la valeur du 
+marché pour les titres cotés et à la juste valeur pour les titres non cotés. Il ne peut y avoir de 
+compensation entre les plus-values latentes de certains titres avec les pertes latentes sur 
+d’autres titres. 
+ 
+ 
+
+
+Page 8:
+ 
+ 
+La moins-value latente ressortant de la différence entre la valeur comptable et la valeur de marché 
+donne lieu à la constitution de provision contrairement aux plus-values latentes qui ne sont pas 
+constatées. 
+- 
+Les titres d’investissement : Ces titres sont valorisés pour chaque titre séparément à la valeur 
+du marché pour les titres cotés et à la juste valeur pour les titres non cotés. Le traitement des 
+plus-values latentes sur ces titres est le même que celui prévu pour les titres de placement. Les 
+moins-values latentes donnent lieu à la constitution de provisions. 
+Revenus du portefeuille titres : 
+Les intérêts sont pris en compte en produits de façon étalée sur la période concernée. Les intérêts 
+courus sur les participations en rétrocession dont l’encaissement effectif est raisonnablement certain 
+sont constatés en produits. 
+Les dividendes sur les titres à revenu variable détenus par la banque sont pris en compte en résultat 
+dès le moment où leur distribution a été officiellement approuvée. 
+Règles de conversion des opérations en monnaies étrangères, de réévaluation et de constatation des 
+résultats de changes : 
+- 
+Règles de conversion : les charges et produits libellés en devises sont convertis en dinars sur 
+la base du cours de change au comptant à la date de leur prise en compte ; 
+- 
+Réévaluation des comptes de position : à chaque arrêté comptable les éléments d’actif, de 
+passif et de hors bilan sont réévalués sur la base du cours moyen des devises sur le marché 
+interbancaire publié par la BCT à la date d’arrêté. 
+- 
+Constatation du résultat de change : à chaque arrêté comptable la différence entre, d’une part 
+les éléments d’actif, de passif et de hors bilan et d’autres parts les montants correspondants 
+dans les comptes de contre valeurs position de change sont prises en compte en résultat de la 
+période concernée. 
+Immobilisations et amortissements  
+Les immobilisations corporelles sont comptabilisées à la valeur d’acquisition hors TVA déductible. 
+Elles sont amorties suivant la méthode de l’amortissement linéaire. 
+Par dérogation à cette règle, le siège social a fait l’objet d’une réévaluation au cours de l’exercice 2000 
+ayant dégagée une réserve de réévaluation figurant parmi les capitaux propres pour un montant de 
+4 219 KDT. 
+Les taux d’amortissement linéaire pratiqués sont les suivants : 
+Immeuble & construction 
+: 2% 
+Immeuble hors exploitation  
+: 10% 
+Mobilier et matériels de bureau 
+: 10% 
+Matériels de transport 
+: 20% 
+Matériel de sécurité & coffre 
+%
+5
+ :
+ 
+Matériel informatique 
+: 20% 
+Logiciels 
+: 20% 
+Œuvres d’art 
+: 10% 
+A. A & Installations 
+: 10% 
+Impôts sur les bénéfices 
+Au 30 juin, l’impôt sur les bénéfices est déterminé de manière forfaitaire en multipliant le résultat 
+comptable par le taux d’imposition applicable pour la période (en tenant compte des contributions 
+sociales et conjoncturelles). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Page 9:
+ 
+ 
+ 
+3. NOTES EXPLICATIVES 
+ 
+Les chiffres sont exprimés en milliers de Dinars (1000 DT = 1 KDT) 
+ 
+3.1 ACTIF 
+ 
+Note 1 : Caisse et avoirs auprès de la BCT, CCP et TGT 
+ 
+La caisse et avoirs auprès de la BCT se sont élevés à 90 868 KDT au 30 juin 2024 contre 80 761 KDT au 
+30 juin 2023 et 74 536 KDT au 31 décembre 2023. 
+ 
+Le solde de cette rubrique se détaille comme suit : 
+ 
+Désignation 
+30.06.2024 
+30.06.2023 
+31.12.2023 
+Caisse 
+41 617  
+58 485 
+42 786 
+Compte courant BCT 
+49 229  
+22 249 
+31 728 
+Compte courant postal 
+ 22  
+22 
+22 
+Traveller's Chèques 
+- 
+5 
+- 
+Total général 
+90 868 
+80 761 
+74 536 
+ 
+Note 2 : Créances sur les établissements bancaires et financiers. 
+ 
+Les créances sur les établissements bancaires et financiers s’élèvent à 826 111 KDT au 30 juin 2024 
+contre 806 575 KDT au 30 juin 2023 et 908 701 KDT au 31 décembre 2023. 
+ 
+Le solde de cette rubrique se détaille comme suit : 
+ 
+Désignation 
+30.06.2024 
+30.06.2023 
+31.12.2023 
+Avoirs en compte sur les établissements bancaires  
+53 927 
+73 710 
+54 044 
+Prêts aux établissements bancaires  
+706 774 
+665 126 
+786 208 
+Créances rattachées sur les avoirs et prêts aux 
+établissements bancaires 
+263 
+116 
+381 
+Total créances sur établissements bancaires 
+760 964 
+738 952 
+840 633 
+Avoirs en compte sur les établissements financiers 
+14 991 
+13 786 
+27 670 
+Prêts aux établissements financiers 
+49 278 
+53 476 
+40 398 
+Créances rattachées sur les avoirs et prêts aux 
+établissements financiers 
+878 
+361 
+- 
+Total créances sur établissements financiers 
+65 147 
+67 623 
+68 068 
+Total 
+826 111 
+806 575 
+908 701 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Page 10:
+ 
+ 
+ 
+Note 3 : Créances sur la clientèle. 
+ 
+Les créances sur la clientèle présentent au 30 juin 2024 un solde net de 5 385 740 KDT contre 5 399 475 
+KDT au 30 juin 2023 et 5 366 376 KDT au 31 décembre 2023. 
+ 
+Le solde de cette rubrique se détaille comme suit : 
+ 
+Désignation 
+30.06.2024 
+30.06.2023 
+31.12.2023 
+Comptes ordinaires débiteurs 
+669 756 
+591 587 
+528 219 
+Avances sur placements à terme 
+20 792 
+28 656 
+64 844 
+Créances rattachées sur comptes de la clientèle 
+2 197 
+1 348 
+3 843 
+Total comptes débiteurs & Autres créances 
+692 745 
+621 591 
+596 906 
+Portefeuille Escompte 
+761 505 
+783 019 
+854 616 
+Crédits à la clientèle non échus 
+3 824 521 
+3 834 360 
+3 855 360 
+Créances douteuses et litigieuses 
+335 266 
+420 052 
+333 922 
+Produits à recevoir 
+53 395 
+52 803 
+42 761 
+Produits perçus d’avance 
+(28 800) 
+(14 848) 
+(18 743) 
+Créances impayées 
+527 191 
+412 804 
+404 719 
+Total autres concours à la clientèle 
+5 473 078 
+5 488 190 
+5 472 635 
+Crédits sur ressources spéciales extérieures 
+90 391 
+102 292 
+108 595 
+Créances rattachées sur crédits sur ressources spéciales 
+1 142 
+1 226 
+954 
+Total Crédits sur ressources spéciales 
+91 533 
+103 518 
+109 549 
+Total brut des crédits accordés à la clientèle 
+6 257 356 
+6 213 299 
+6 179 090 
+  
+  
+  
+  
+A déduire couverture : 
+  
+  
+ 
+Agios réservés  
+(292 999) 
+(267 203) 
+(262 053) 
+Provisions individuelles 
+(338 035) 
+(344 829) 
+(332 082) 
+Provision additionnelle 
+(137 309) 
+(114 582) 
+(117 306) 
+Provisions collectives 
+(103 273) 
+(87 210) 
+(101 273) 
+Total Provisions et agios 
+(871 616) 
+(813 824) 
+(812 714) 
+  
+  
+  
+  
+Total net des créances sur la clientèle 
+5 385 740 
+5 399 475 
+5 366 376 
+ 
+Note 4 : Portefeuille d’investissement. 
+ 
+Le solde net de cette rubrique s’élève au 30 juin 2024 à 947 926 KDT contre 1 196 039 au 30 juin 2023 et 
+997 459 KDT au 31 décembre 2023.Le solde de cette rubrique se détaille comme suit : 
+ 
+ 
+Désignation 
+30.06.2024 
+30.06.2023 
+31.12.2023 
+Titres d'investissement 
+904 256 
+1 160 028 
+963 915 
+Parts dans les entreprises liées 
+40 657 
+39 776 
+39 776 
+Titres de participations 
+104 881 
+91 624 
+89 216 
+Créances rattachées 
+29 376 
+28 924 
+31 326 
+Total brut du portefeuille d'investissement 
+1 079 170 
+1 320 352 
+1 124 233 
+Provisions 
+(131 244) 
+(124 313) 
+(126 774) 
+Total provisions 
+(131 244) 
+(124 313) 
+(126 774) 
+ 
+ 
+Valeur nette du portefeuille d'investissement 
+947 926 
+1 196 039 
+ 997 459 
+ 
+ 
+
+
+Page 11:
+ 
+ 
+ 
+Note 5 : Valeurs Immobilisées 
+ 
+Le solde net des valeurs immobilisées s’élève au 30 juin 2024 à 160 432 KDT contre 132 475 au 30 juin 
+2023 et 152 878 KDT au 31 décembre 2023. 
+Le tableau de variation des immobilisations se présente comme suit : 
+ 
+Désignation 
+VB au 
+31.12.23 Acquisition 
+Cession / 
+Transfert 
+VB au 
+30.06.24 
+Amort / 
+Provision 
+Cumul au 
+31.12.23 
+Dotation Reprise 
+/ Sortie 
+Amort / 
+Provision 
+Cumul au 
+30.06.24 
+VCN au 
+30.06.24 
+1) Immobilisation 
+Incorporelles 
+ 62 489  
+ 11 224  
+-151  
+ 73 562  
+- 57 019  
+-2 899  
+51  
+- 59 867  
+ 13 695  
+Logiciels  
+ 61 303  
+ 11 218  
+-  
+ 72 521  
+- 56 814  
+-2 899  
+  
+- 59 713  
+ 12 808  
+Droit au bail 
+429  
+ -  
+-151  
+278  
+-205  
+ -  
+51  
+-154  
+124  
+Autres immobilisations 
+incorporelles 
+757  
+6  
+-  
+763  
+-  
+ -  
+ -  
+-  
+763  
+2) Immobilisations 
+Corporelles  
+ 205 570  
+ 17 023  
+- 10 151   212 442  - 138 253  
+-4 982  
+ 1 133  
+- 142 102  
+ 70 340  
+Immobilisation d'exploitation 
+ 103 384  
+ 11 328  
+-   114 712  
+- 63 969  
+-1 924  
+ -  
+- 65 893  
+ 48 819  
+Terrains d'exploitation 
+ 5 329  
+ 11 295  
+-  
+ 16 624  
+ -  
+  
+ -  
+-  
+ 16 624  
+Bâtiments 
+ 24 783  
+ -  
+-  
+ 24 783  
+- 9 253  
+- 243  
+ -  
+- 9 496  
+ 15 287  
+Aménagements de bâtiments 
+ 73 272  
+33  
+-  
+ 73 305  
+- 54 716  
+-1 681  
+ -  
+- 56 397  
+ 16 908  
+Immobilisation hors 
+exploitation 
+ 18 088  
+ 3 408  
+- 8 949  
+ 12 547  
+- 8 504  
+- 125  
+ -  
+- 8 629  
+ 3 918  
+Terrains hors exploitation  
+ -  
+ -  
+-  
+ -  
+-  
+ -  
+ -  
+-  
+ -  
+Bâtiments 
+ 18 088  
+ 3 408  
+- 8 949  
+ 12 547  
+- 8 504  
+- 125  
+ -  
+- 8 629  
+ 3 918  
+Matériels & Mobiliers de 
+bureau 
+ 11 307  
+58  
+-260  
+ 11 105  
+- 7 549  
+- 340  
+ 252  
+- 7 637  
+ 3 468  
+Matériels de transport 
+ 12 466  
+ -  
+-426  
+ 12 040  
+- 9 354  
+- 798  
+ 366  
+- 9 786  
+ 2 254  
+Matériels informatique 
+ 53 130  
+ 2 223  
+-508  
+ 54 845  
+- 44 945  
+-1 644  
+ 508  
+- 46 081  
+ 8 764  
+Matériels de sécurité 
+ 7 162  
+6  
+-8  
+ 7 160  
+- 3 908  
+- 150  
+ 7  
+- 4 051  
+ 3 109  
+Autres immobilisations 
+33  
+ -  
+-  
+33  
+-24  
+- 1  
+ -  
+-25  
+8  
+3) Immobilisations encours 
+ 80 091  
+ 8 501  
+- 12 195  
+ 76 397  
+-  
+ -  
+ -  
+-  
+ 76 397  
+Immobilisations corporelles 
+encours  
+ 5 508  
+ -  
+- 4 337  
+ 1 171  
+-  
+ -  
+ -  
+-  
+ 1 171  
+Immobilisations incorporelles 
+encours  
+ 74 583  
+ 8 501  
+- 7 858  
+ 75 226  
+-  
+ -  
+ -  
+-  
+ 75 226  
+Total 
+ 348 150  
+ 36 748  
+- 22 497   362 401  - 195 272  
+-7 881  
+ 1 184  
+- 201 969   160 432  
+ 
+ 
+ 
+Note 6 : Autres actifs 
+ 
+Le solde net de cette rubrique s’élève au 30 juin 2024 à 132 620 KDT contre 149 860 au 30 juin 2023 et 
+131 426 KDT au 31 décembre 2023 détaillée comme suit  
+ 
+Désignation 
+30.06.2024 
+30.06.2023 
+31.12.2023 
+Comptes d'attente 
+84 807 
+106 760 
+84 442 
+Crédits & Avances aux Personnels 
+53 723 
+52 905 
+52 589 
+Impôts Actif 
+9 139 
+3 177 
+8 697 
+Charges à répartir 
+510 
+1 453 
+865 
+Stocks Imprimés & Fournitures 
+2 142 
+2 134 
+1 898 
+Crédits pris en charge par l’Etat 
+221 
+221 
+221 
+Provisions pour risques et charges 
+(17 922) 
+(16 790) 
+(17 286) 
+Total général 
+132 620 
+149 860 
+131 426 
+ 
+ 
+
+
+Page 12:
+ 
+ 
+3.2 PASSIF 
+Note 7 : Dépôts et avoirs des établissements bancaires et financiers. 
+ 
+Les dépôts et avoirs des établissements bancaires et financiers ont atteint 62 615 KDT au 30 juin 2024 
+contre 278 517 KDT au 30 juin 2023 et 118 065 KDT au 31 décembre 2023. 
+Désignation 
+30.06.2024 
+30.06.2023 
+31.12.2023 
+Dépôts et avoirs des établissements bancaires 
+32 191 
+269 397 
+41 489 
+Dépôts et avoirs des établissements financiers 
+30 424 
+9 120 
+76 576 
+Total 
+62 615 
+278 517 
+118 065 
+ 
+Note 8 : Dépôts de la clientèle. 
+ 
+Les dépôts collectés auprès de la clientèle ont atteint 6 275 785 KDT au 30 juin 2024 contre 5 925 562 
+KDT au 30 juin 2023 et 6 349 083 KDT au 31 décembre 2023. 
+ 
+Désignation 
+30.06.2024 
+30.06.2023 
+31.12.2023 
+Dépôts à vue 
+2 088 393 
+2 132 890 
+2 012 732 
+Dépôts à terme 
+2 219 713 
+1 978 852 
+2 387 248 
+Comptes d'épargne 
+1 705 373 
+1 578 795 
+1 651 417 
+Autres sommes dues à la clientèle 
+235 226 
+213 409 
+279 670 
+Dettes rattachées 
+27 080 
+21 616 
+18 016 
+Total 
+6 275 785 
+5 925 562 
+6 349 083 
+ 
+Note 9 : Emprunts et ressources spéciales. 
+Les emprunts et ressources spéciales ont atteint 392 398 KDT au 30 juin 2024 contre 483 785 KDT au 30 
+juin 2023 et 394 875 KDT au 31 décembre 2023. 
+ 
+Désignation 
+30.06.2024 
+30.06.2023 
+31.12.2023 
+Emprunts matérialisés 
+271 716 
+364 545 
+263 291 
+Emprunts obligataires 
+13 125 
+15 000 
+15 000 
+Emprunts subordonnés 
+161 333 
+184 833 
+172 083 
+Pensions livrées 
+84 482 
+149 593 
+62 767 
+Emprunts liés à des contrats de location financement 
+3 300 
+3 407 
+3 353 
+Dettes rattachées sur emprunts matérialisés 
+9 476 
+11 712 
+10 088 
+Ressources spéciales 
+120 682 
+119 240 
+131 584 
+Ressources extérieures 
+101 430 
+113 467 
+111 244 
+Ressources extérieures en dinars 
+71 301 
+76 850 
+77 627 
+Ressources extérieures en devises 
+30 129 
+36 617 
+33 617 
+Ressources budgétaires  
+18 139 
+4 866 
+19 139 
+Dettes rattachées sur ressources spéciales 
+         1 113  
+907 
+1 201 
+Total 
+392 398 
+483 785 
+394 875 
+ 
+Note 10 : Autres passifs. 
+ 
+Le solde net de cette rubrique s’élève au 30 juin 2024 à 207 048 KDT contre 240 110 KDT au 30 juin 2023 
+et 201 910 KDT au 31 décembre 2023 détaillée comme suit : 
+ 
+Désignation 
+30.06.2024 
+30.06.2023 
+31.12.2023 
+Frais liés au personnel 
+25 095 
+26 837 
+39 063 
+Divers frais à payer 
+45 945 
+32 123 
+23 178 
+Impôts passifs 
+24 015 
+24 355 
+17 757 
+Provisions pour risques et charges 
+18 561 
+16 811 
+21 668 
+Comptes d'attente 
+93 432 
+139 984 
+100 245 
+Total 
+207 048 
+240 110 
+201 911 
+
+
+Page 13:
+ 
+3.3 CAPITAUX PROPRES 
+ 
+Note 11 : Capitaux propres 
+ 
+A la date du 30 Juin 2024, le capital social s'élève à 128 000 KDT composé de 128 000 000 actions d'une 
+valeur nominale de 1 DT libérée en totalité. 
+ 
+Les capitaux propres ont atteint 569 851 KDT à fin juin 2024 contre 577 211 KDT au 30 juin 2023 et              
+557 442 KDT à fin 2023 (après affectation) ainsi détaillés : 
+ 
+(
+EN
+ 
+KDT
+)
+ 
+Capital
+ 
+Prime d’émission
+ 
+Réserve légale
+ 
+Réserve spéciale de
+ 
+réévaluation
+ 
+Réserve pour 
+Réinvest
+ 
+exonérés 
+disponible
+ 
+Réserve pour 
+Réinvest
+ 
+exonérés 
+indisponible
+ 
+Réserve à régime 
+spécial
+ 
+Fonds pour risques
+ 
+généraux
+ 
+Résultats reportés
+ 
+Résultat de la 
+période
+ 
+Total
+ 
+Solde au 31.12.2023 avant 
+affectation 
+128 000 
+170 904 
+10 000 
+4 219 
+149 908 
+156 081 
+2 790 
+1 185 
+(56 239) 
+(9 406) 
+557 442 
+Affectations des bénéfices non réparties au 31.12.2023 
+Réserve pour réinvest. 
+  
+  
+  
+  (20 000) 
+20 000 
+ 
+ 
+ 
+ 
+- 
+Dividendes 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+- 
+Résultats reportés 
+  
+  
+  
+  
+  
+ 
+  
+  
+(9 406) 
+9 406 
+- 
+Solde au 31.12.2023 après 
+affectation 
+128 000 170 904 10 000 4 219 129 908 176 081 
+2 790 
+1 185 
+(65 645) 
+- 557 442 
+Résultat net 30.06.2024 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+12 409 
+12 409 
+Solde au 30.06.2024 
+128 000 170 904 10 000 4 219 129 908 176 081 
+2 790 
+1 185 
+(65 645) 
+12 409 569 851 
+ 
+ 
+ETAT DE RESULTAT 
+ 
+Note 12 : Intérêts et revenus assimilés. 
+ 
+Les intérêts et revenus assimilés ont totalisé un montant de 293 966 KDT au cours du 1er semestre de 
+2024 contre un montant de 267 388 KDT au cours du 1er semestre de 2023 et 573 118 KDT au cours de 
+l’exercice 2023. 
+ 
+Désignation 
+Période du 
+01.01.2024 au 
+30.06.2024 
+Période du 
+01.01.2023 au 
+30.06.2023 
+Période du 
+01.01.2023 au 
+31.12.2023 
+  
+  
+  
+  
+Opérations avec les établissements bancaires et financiers 
+et la BCT 
+22 798 
+11 807 
+32 970 
+Intérêts sur opérations de trésorerie et interbancaires 
+22 591 
+11 462 
+32 017 
+Profit/ Perte vente et achat à terme devises 
+207 
+345 
+953 
+Opérations avec la clientèle 
+271 168 
+255 581 
+540 148 
+Intérêts sur crédit CT & MLT 
+227 259 
+225 515 
+467 266 
+Intérêts sur comptes courants débiteurs 
+43 909 
+30 066 
+72 882 
+Total 
+293 966 
+267 388 
+573 118 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Page 14:
+ 
+Note 13 : Commissions (en produits) 
+ 
+Les commissions ont totalisé un montant de 41 319 KDT au cours du 1er semestre de 2024 contre un 
+montant de 42 914 KDT au cours du 1er semestre de 2023 et 89 404 KDT au cours de l’exercice 2023. 
+ 
+Désignation 
+Période du 
+01.01.2024au30.06.2024 
+Période du 
+01.01.2023 au 
+30.06.2023 
+Période du 
+01.01.2023 au 
+31.12.2023 
+Commissions sur comptes et moyens de paiement 
+24 995 
+27 208 
+55 025 
+Commissions sur cautions, avals et autres garanties 
+données par la banque 
+5 300 
+4 648 
+9 643 
+Commissions sur opérations internationales 
+1 889 
+2 255 
+20 611 
+Récupérations et autres commissions 
+9 135 
+8 803 
+4 125 
+Total 
+41 319 
+42 914 
+89 404  
+ 
+Note 14 : Gains sur portefeuille-titres commercial et opérations financières 
+ 
+Les gains sur portefeuille-titres commercial et opérations financières ont totalisé un montant de 8 433 
+KDT au cours du 1er semestre de 2024 contre un montant de 9 806 KDT au cours du 1er semestre de 
+2023 et 17 742 KDT au cours de l’exercice 2023. 
+ 
+Désignation 
+Période du 
+01.01.2024 au 
+30.06.2024 
+Période du 
+01.01.2023 au 
+30.06.2023 
+Période du 
+01.01.2023 
+ au 31.12.2023 
+Gain net sur titres de placement  
+33 
+25 
+87 
+Gain net sur opérations de change  
+8 400 
+9 781 
+17 655 
+Total 
+8 433 
+9 806 
+17 742 
+ 
+Note 15 : Revenus du portefeuille d’investissement. 
+ 
+Les revenus du portefeuille d’investissement ont totalisé un montant de 42 731 KDT au cours du 1er 
+semestre de 2024 contre un montant de 44 777 KDT au cours du 1er semestre de 2023 et 83 072 KDT au 
+cours de l’exercice 2023. 
+ 
+Désignation 
+Période du 
+01.01.2024 
+au 
+30.06.2024 
+Période du 
+01.01.2023 
+au 
+30.06.2023 
+Période du 
+01.01.2023 
+au 
+31.12.2023 
+Intérêts et revenus assimilés sur titres d'investissement 
+34 766 
+37 507 
+73 567 
+Dividendes et revenus assimilés sur titres de participation 
+3 706 
+3 233 
+5 347 
+Dividendes et revenus assimilés sur parts dans les entreprises liées 
+4 259 
+4 037 
+4 158 
+Total 
+42 731 
+44 777 
+83 072 
+ 
+Note 16 : Intérêts encourus et charges assimilées.  
+ 
+Les intérêts encourus et charges assimilées ont totalisé un montant de 196 797 KDT au cours du 1er 
+semestre de 2024 contre un montant de 191 172 KDT au cours du 1er semestre de 2023 et 392 209 KDT 
+au cours de l’exercice 2023. 
+ 
+Désignation 
+Période du 
+01.01.2024 au 
+30.06.2024 
+Période du 
+01.01.2023 au 
+30.06.2023 
+Période du 
+01.01.2023 au 
+31.12.2023 
+Intérêts encourus et charges assimilées 
+196 424 
+189 810 
+390 498 
+Opérations avec les établissements bancaires et financiers 
+et BCT 
+1 477 
+15 341 
+24 635 
+Opérations avec la clientèle 
+176 641 
+155 236 
+324 912 
+Emprunts et ressources spéciales 
+18 306 
+19 233 
+40 951 
+Autres intérêts et charges 
+373 
+1 362 
+1 711 
+Total 
+196 797 
+191 172 
+392 209 
+ 
+
+
+Page 15:
+ 
+Note 17 : Dotations aux provisions et résultat des corrections de valeurs sur créances, hors bilan & 
+passif 
+ 
+Les dotations aux provisions et résultat des corrections de valeurs sur créances hors bilan et passif ont 
+totalisé un montant de 34 826 KDT au cours du 1er semestre 2024 contre un montant de 33 845 KDT au 
+cours du 1er semestre 2023 et 124 149 KDT au cours de l’exercice 2023 se détaillant ainsi : 
+ 
+Désignation 
+Période du 
+01.01.2024 
+au 
+30.06.2024 
+Période du 
+01.01.2023 
+au 
+30.06.2023 
+Période du 
+01.01.2023 
+au 
+31.12.2023 
+Dotations aux provisions sur créances douteuses 
+5 954 
+23 347 
+68 412 
+Dotations aux provisions collectives  
+2 000 
+2 246 
+16 308 
+Dotations aux provisions additionnelles sur créances 
+20 003 
+16 850 
+39 621 
+Dotations aux provisions sur autres éléments d'actifs & autres risques 
+et charges 
+ 5 489 
+ 1 867 
+8 338 
+Frais de recouvrement 
+2 598 
+975 
+2 926 
+Total dotations 
+36 044 
+45 285 
+135 605 
+Pertes sur créances 
+2 722 
+601 
+5 878 
+Radiation de créances 
+- 
+- 
+73 357 
+Total dotations & pertes et radiations sur créances 
+38 766 
+45 886 
+214 840 
+Reprises de provisions sur créances douteuses 
+- 
+(12 001) 
+(11 762) 
+Reprise de provision sur créances additionnelles 
+- 
+- 
+(4742) 
+Reprise de provisions sur autres éléments d'actifs & autres risques et 
+charges 
+(3 940) 
+(40) 
+(830) 
+Reprise de provisions individuelles sur créances radiées 
+- 
+- 
+(58 051) 
+Reprise de provisions additionnelles sur créances radiées 
+- 
+- 
+(15 306) 
+Total Reprises 
+(3 940) 
+(12 041) 
+(90 691) 
+Total des reprises et des récupérations sur créances 
+(3 940) 
+(12 041) 
+(90 691) 
+Total 
+34 826 
+33 845 
+124 149 
+Note 18 : Dotations aux provisions et résultat des corrections de valeurs sur portefeuille 
+d’investissement 
+ 
+Les dotations aux provisions et résultat des corrections de valeurs sur portefeuille d’investissement ont 
+totalisé un montant de 4 470 KDT au cours du 1er semestre de 2024 contre un montant de 5 288 KDT au 
+cours du 1er semestre de 2023 et 8 136 KDT au cours de l’exercice 2023 se détaillant ainsi : 
+ 
+Désignation 
+Période du 
+01.01.2024 au 
+30.06.2024 
+Période du 
+01.01.2023 au 
+30.06.2023 
+Période du 
+01.01.2023 au 
+31.12.2023 
+Dotation aux provisions/portefeuille investissement 
+4 661 
+6 873 
+8 720 
+Reprises/provisions pour dépréciation de titres 
+(191) 
+(1 201) 
+(587) 
+Plus ou Moins-value sur cession de titres de participations 
+- 
+(384) 
+3 
+Total 
+4 470 
+5 288 
+8 136 
+ 
+Note 19 : Frais de Personnel 
+ 
+Les frais de personnel ont totalisé un montant de 70 394 KDT au cours du 1er semestre de 2024 contre 
+un montant de 65 785 KDT au cours du 1er semestre de 2023 et 131 967 KDT au cours de l’exercice 2023. 
+ 
+Désignation 
+Période du 
+01.01.2024 au 
+30.06.2024 
+Période du 
+01.01.2023 au 
+30.06.2023 
+Période du 
+01.01.2023 au 
+31.12.2023 
+Rémunération du personnel 
+55 959 
+51 362 
+103 118 
+Charges sociales 
+12 525 
+12 335 
+24 997 
+Autres charges liées au personnel 
+1 910 
+2 088 
+3 852 
+Total 
+70 394 
+65 785 
+131 967 
+ 
+
+
+Page 16:
+ 
+ 
+ 
+Note 20 : Charges générales d’exploitation 
+ 
+Les charges générales d’exploitation ont totalisé un montant de 37 899 KDT au cours du 1er semestre de 
+2024 contre un montant de 37 300 KDT au cours du 1er semestre de 2023 et 79 944 KDT au cours de 
+l’exercice 2023. 
+ 
+Désignation 
+Période du 
+01.01.2024 au 
+30.06.2024 
+Période du 
+01.01.2023 au 
+30.06.2023 
+Période du 
+01.01.2023 au 
+31.12.2023 
+Frais d'exploitation non bancaires 
+12 702 
+12 154 
+26 996 
+Autres charges d'exploitation 
+25 197 
+25 146 
+52 948 
+Total 
+37 899 
+37 300 
+79 944 
+ 
+Note 21 : Liquidités et équivalents de liquidité 
+ 
+Les liquidités et équivalents de liquidités ont atteint au 30 juin 2024 un solde positif 783 849 de KDT 
+contre 312 872 KDT au 30 juin 2023 et 819 832 au 31 décembre 2023 et se détaillant ainsi : 
+ 
+Désignation 
+30.06.2024 
+30.06.2023 
+31.12.2023 
+Avoirs en Caisses et Créances et dettes auprès des 
+banques locales, BCT, CCP et TGT 
+90 868 
+80 761 
+74 536 
+Dépôts et avoirs auprès des correspondants étrangers 
+42 142 
+93 135 
+9 090 
+Soldes des emprunts et placements sur le marché 
+monétaire et intérêts rattachés 
+650 839 
+138 976 
+736 206 
+Total 
+783 849 
+312 872 
+819 832 
+ 
+Note 23 : Evénements postérieurs à la date de clôture 
+ 
+Aucun événement significatif n’est parvenu postérieurement au 30 juin 2024. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Page 17:
+ 
+ 
+ 
+RAPPORT D’EXAMEN LIMITÉ SUR LES ÉTATS FINANCIERS 
+INTERMÉDIAIRES AU 30 JUIN 2024 
+ 
+RAPPORT D’EXAMEN LIMITÉ SUR LES ÉTATS FINANCIERS INTERMÉDIAIRES  
+AU 30 JUIN 2024 
+ 
+ 
+ 
+ 
+Mesdames, Messieurs les actionnaires 
+de l’Arab Tunisian Bank - ATB 
+ 
+ 
+ 
+Nous avons effectué l’examen limité du bilan et de l’état des engagements hors bilan de l’Arab 
+Tunisian Bank arrêtés au 30 juin 2024 ainsi que de l’état de résultat et de l’état des flux de trésorerie 
+pour la période de six mois se terminant à cette date, des notes contenant un résumé des principales 
+méthodes comptables et d’autres notes explicatives. Ces états financiers intermédiaires font apparaître 
+un total bilan de 7 543 697 KDT et un bénéfice net de la période s’élevant à 12 409 KDT. 
+La direction est responsable de l'établissement et de la présentation sincère de ces états financiers 
+intermédiaires conformément aux normes comptables tunisiennes. Notre responsabilité est d'exprimer 
+une conclusion sur ces états financiers intermédiaires sur la base de notre examen limité. 
+Etendue de l'examen limité 
+Nous avons effectué notre examen limité selon les normes de la profession applicables en Tunisie et 
+relatives aux missions d’examen limité d’informations financières intermédiaires.  
+Un examen limité d'informations financières intermédiaires consiste à obtenir les informations 
+nécessaires, principalement auprès des personnes responsables des aspects comptables et financiers et 
+à mettre en œuvre des procédures analytiques ainsi que toute autre procédure d’examen appropriée. Un 
+examen de cette nature ne comprend pas tous les contrôles propres à un audit effectué selon les normes 
+professionnelles applicables en Tunisie. Il ne permet donc pas d’obtenir l’assurance d’avoir identifié 
+tous les points significatifs qui auraient pu l’être dans le cadre d’un audit et, de ce fait, nous 
+n’exprimons pas une opinion d’audit. 
+ 
+Conclusion 
+Sur la base de notre examen limité, nous n'avons pas relevé de faits qui nous laissent à penser que les 
+états financiers intermédiaires ci-joints ne donnent pas une image fidèle de la situation financière de 
+l’Arab Tunisian Bank au 30 juin 2024, ainsi que de sa performance financière et de ses flux de 
+trésorerie pour la période de six mois se terminant à cette date, conformément aux normes comptables 
+généralement admises en Tunisie. 
+
+
+Page 18:
+ 
+ 
+Paragraphes d’observation 
+Sans remettre en cause notre conclusion ci-haut exprimée, nous estimons utile d'attirer votre attention 
+sur les points suivants : 
+- 
+Comme mentionné dans la note aux états financiers n°2, les engagements de certaines relations 
+qui ont fait l'objet de décisions de gel d'avoir ou de confiscation ont été majoritairement 
+maintenus parmi les actifs nécessitant un suivi particulier. La banque a justifié ce traitement par 
+le fait qu'elle n'avait pas assez d'informations disponibles au 30 juin 2024 pour statuer sur la 
+classe de risque à retenir. Ces engagements totalisent un montant de 80,2 millions de DT et 
+sont couverts par des provisions et produits réservés pour un montant total de                 
+22,7 millions de DT. 
+ 
+- 
+S'agissant d'une situation intermédiaire et comme mentionné dans la note aux états financiers 
+n°2, les engagements inférieurs à 100 mille DT n'ont pas fait l'objet d'une étude au cas par cas. 
+Pour la classification de ces créances, la banque a retenu le minimum entre la classe mécanique 
+et la classe déterminée au 31 décembre 2023. La banque effectue une analyse de cohérence 
+pour s’assurer que, même avec la classe ainsi déterminée, le taux de couverture sur une base 
+d’une classification purement mécanique reste à un niveau acceptable. En effet, en couverture 
+des risques liés aux engagements inférieurs à 100 mille DT, la banque a constitué des 
+provisions et des produits réservés d'un montant total de 87 millions de DT ce qui représente un 
+taux de couverture de 91% des engagements classés par la banque parmi les actifs incertains, 
+préoccupants ou compromis totalisant 96 millions de DT sachant que les concours 
+mécaniquement classables dans ces catégories totalisent un montant de 121,4 millions de DT 
+au 30 juin 2024. Le taux de couverture sur une base de classification mécanique est donc de 
+72%. 
+  
+ 
+Tunis, le 03 septembre 2024 
+ 
+Les Commissaires aux Comptes 
+Les Commissaires aux Comptes Associés 
+MTBF 
+ 
+ 
+CPA Tunisie 
+ 
+Mohamed Lassaad BORJI 
+Zied CHAHED 
+ 

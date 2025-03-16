@@ -1,0 +1,1466 @@
+Page 1:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GUIDE DES INDICES BOURSIERS 
+
+
+Page 2:
+Bourse des Valeurs Mobilières de Tunis  
+                 
+Document mis à jour : Décembre 2012 
+ 
+ 
+1
+SOMMAIRE 
+ 
+LA GAMME D’INDICES……………………………………………………………….2 
+LA GESTION DES INDICES : LE COMITE DES INDICES BOURSIERS…….4 
+METHODOLOGIE ET CALCUL DE L’INDICE TUNINDEX ET DES INDICES 
+SECTORIELS…………………………………………………………………………..5 
+I. 
+COMPOSITION DE L’INDICE TUNINDEX ET DES INDICES SECTORIELS….5 
+II. 
+REGLE EXCEPTIONNELLE RELATIVE A LA SUSPENSION OU AU 
+TRANSFERT D’UNE VALEUR AU GROUPE SPECIAL.....................................5 
+III. 
+REVISION DE L’ECHANTILLON……………………….……………………………5 
+IV. 
+CALCUL………………………………………………………………………………...6 
+V. 
+DIFFUSION……………………………………………………………………………..8 
+METHODOLOGIE ET CALCUL DE L’INDICE TUNINDEX20……………………9 
+I. 
+UNINVERS ELIGIBLE………………………………………………………………...9 
+II. 
+REVISION DE L’ECHANTILLON……………………………………………………9 
+III. 
+CALCUL ET DIFFUSION………………………….………………………………...12 
+REVISIONS DU FLOTTANT ET DU PLAFONNEMENT POUR LA GAMME 
+D’INDICES…………………………………………………………………………….13 
+LES MODALITES D’AJUSTEMENT DES INDICES…………………………..…14 
+ 
+ 
+
+
+Page 3:
+Bourse des Valeurs Mobilières de Tunis  
+                 
+Document mis à jour : Décembre 2012 
+ 
+ 
+2
+LA GAMME D’INDICES  
+ 
+L’INDICE TUNINDEX  
+L’indice TUNINDEX est un indice pondéré par les capitalisations boursières flottantes 
+avec une base 1000, le 31 décembre 1997.  
+C’est un indice statistique, de type rendement (les dividendes sont réinvestis), qui 
+mesure la tendance générale des marchés des titres de capital de la Cote de la Bourse. 
+ 
+L’indice TUNINDEX est également calculé et disponible en Dollar US et en Euro.   
+ 
+LES INDICES SECTORIELS  
+Les Indices Sectoriels sont pondérés par les capitalisations boursières flottantes avec 
+une base 1000, le 31 décembre 2005. Ils sont de type rendement. Les indices sectoriels 
+suivent la nomenclature sectorielle « Industry Classification Benchmark ». Leurs 
+échantillons sont composés des valeurs de l’indice TUNINDEX classées dans le 
+secteur considéré. Une société HOLDING est classée selon son activité principale 
+définie à partir de l’activité dans laquelle elle réalise la plus grande part de son chiffre 
+d’affaires. Les indices sectoriels permettent de mesurer l’évolution d’un secteur 
+donné. Ils sont emboités et calculés à deux niveaux : 
+ 
+− niveau 1 : « Industrie » ; 
+ 
+− niveau 2 : « Supersecteur ». 
+ 
+L’INDICE TUNINDEX20 
+L’indice TUNINDEX20 représente la performance des 20 plus grandes valeurs les plus 
+liquides, cotées sur les marchés des titres de capital de la Bourse de Tunis.  Il est 
+pondéré par les capitalisations boursières flottantes avec une base 1000, le 31 
+décembre 2006. Cet un indice de type rendement. 
+
+
+Page 4:
+Bourse des Valeurs Mobilières de Tunis  
+                 
+Document mis à jour : Décembre 2012 
+ 
+ 
+3
+Cet indice a été conçu pour être répliqué et servir de référence (Benchmark) auquel les 
+gestionnaires de portefeuille se comparent pour juger de la performance de leur 
+gestion pour le compte de tiers. 
+En parallèle, une version Prix TUNINDEXprice20 qui ne tient pas compte du 
+réinvestissement des dividendes est calculée et disponible. 
+Les indices TUNINDEX20 et TUNINDEXprice20 sont également calculés et disponibles 
+en Dollar US et en Euro.   
+ 
+ 
+Par ailleurs, pour répondre aux besoins des gestionnaires, un indice Rentabilité 
+valorisé au cours moyen pondéré TNVWAP20 est calculé et disponible.  
+ 
+ 
+ 
+ 
+ 
+
+
+Page 5:
+Bourse des Valeurs Mobilières de Tunis  
+                 
+Document mis à jour : Décembre 2012 
+ 
+ 
+4
+LA GESTION DES INDICES : LE COMITE DES INDICES 
+BOURSIERS  
+La gestion des indices est confiée à un Comité des Indices Boursiers dont la mission 
+est de gérer les échantillons des indices de la Bourse de Tunis et d’en contrôler la 
+fiabilité et la représentativité. 
+ 
+La mise à jour des échantillons qui composent les indices est décidée par le Comité 
+des Indices Boursiers.  
+ 
+La composition de ce comité, les modalités de son fonctionnement ainsi que les 
+conditions de publication et d’entrée en vigueur de ses décisions ont été conçues pour 
+assurer aux indices de la Bourse de Tunis, une triple garantie de compétence, 
+d’indépendance et de transparence.  
+Le Comité des indices boursiers est composé des représentants du Ministère des 
+Finances, du Conseil du Marché Financier, de la Banque Centrale de Tunisie, de 
+l'Institut National de la Statistique, de l'Institut d'Economie Quantitative ainsi que de 
+deux universitaires désignés par le Ministère chargé de l’enseignement supérieur.  
+ 
+Il se réunit au moins deux fois par an et chaque fois que cela est nécessaire. Il peut 
+aussi se réunir à la demande de son président.  
+ 
+ 
+ 
+ 
+ 
+
+
+Page 6:
+Bourse des Valeurs Mobilières de Tunis  
+                 
+Document mis à jour : Décembre 2012 
+ 
+ 
+5
+METHODOLOGIE ET CALCUL DE L’INDICE TUNINDEX ET DES 
+INDICES SECTORIELS 
+ 
+I. 
+COMPOSITION 
+DE 
+L’INDICE 
+TUNINDEX 
+ET 
+DES 
+INDICES 
+SECTORIELS 
+La population retenue dans l’indice TUNINDEX et les indices sectoriels est celle des 
+valeurs admises à l’un des marchés des titres de capital de la Cote de la Bourse dont 
+la période de séjour est supérieure à un mois (à compter de la date de démarrage des 
+négociations). Seule la ligne de cotation la plus active est retenue par émetteur. 
+ 
+II. 
+REGLE EXCEPTIONNELLE RELATIVE A LA SUSPENSION OU AU 
+TRANSFERT D’UNE VALEUR AU GROUPE SPECIAL 
+Une valeur est retirée de l’échantillon de l’indice TUNINDEX et des indices sectoriels 
+correspondants lorsque : 
+a) 
+ elle est transférée au groupe des valeurs, qui sont affectées par des 
+évènements susceptibles de perturber durablement leur situation ; 
+b) 
+la durée de suspension dépasse 2 mois. 
+Après le retour aux conditions normales de cotation (reprise de la cotation, transfert 
+du groupe spécial à un autre groupe,...), le Comité peut décider de réintégrer cette 
+valeur dans l’indice. 
+ 
+III. 
+REVISION DE L’ECHANTILLON 
+La composition de l’indice TUNINDEX et des indices sectoriels fait l’objet de révisions 
+trimestrielles en décembre, mars, juin et septembre avec comme date d’effet le 1er jour 
+ouvrable du mois de janvier, avril, juillet et octobre. 
+ 
+ 
+
+
+Page 7:
+Bourse des Valeurs Mobilières de Tunis  
+                 
+Document mis à jour : Décembre 2012 
+ 
+ 
+6
+IV. 
+CALCUL  
+Les indices sont pondérés par les capitalisations boursières flottantes. 
+ 
+Les cours des valeurs retenus dans le calcul des indices sont les derniers cours cotés, 
+les cours réservés (seuils de réservation), les cours estimés (dans le cas d’offre 
+publique d’achat ou d’échange) ou les cours de référence pour les valeurs non cotées.  
+ 
+Les ajustements consécutifs à la radiation de valeurs de l’échantillon, à la mise en 
+paiement de dividendes et à toutes opérations sur le capital des valeurs de 
+l’échantillon sont assurés directement par la Bourse. 
+ 
+1. FLOTTANT 
+Le flottant exclut les éléments suivants : 
+−−−− Autocontrôle et Auto-détention : les actions détenues par les sociétés contrôlées 
+par la société cotée ou détenues directement par cette dernière. 
+−−−− Actions détenues par l’Etat : les participations détenues directement par l'Etat et les 
+participations détenues par les établissements publics et les entreprises publiques 
+contrôlées par l'Etat. 
+−−−− Actions détenues par les fondateurs : les actions détenues directement ou 
+indirectement par les fondateurs, lesdits fondateurs exerçant une influence sur la 
+gestion ou le contrôle de la société (dirigeants, contrôle en droits de vote, influence 
+notoire, …). 
+−−−− Action détenues de Concert et par les personnes initiées : les actions détenues par 
+des personnes (hors fondateurs et l'Etat) agissant de concert au sens de l’article 10 de 
+la loi n°94-117. Sont considérées personnes initiées, les administrateurs ainsi que 
+leurs conjoints, ascendants et descendants jusqu'au premier degré. 
+−−−− Bloc Contrôlant : les actions détenues par des personnes morales (hors fondateurs 
+et l'Etat) qui exercent un contrôle. 
+
+
+Page 8:
+Bourse des Valeurs Mobilières de Tunis  
+                 
+Document mis à jour : Décembre 2012 
+ 
+ 
+7
+−−−− Participations Analysées Comme Stables : les participations supérieures à 5%. Sont 
+incluses les participations de moindre importance d'actionnaires qui parallèlement ou 
+conjointement au lien capitalistique, ont avec la société cotée des accords industriels 
+ou stratégiques. 
+ 
+Le flottant obtenu est arrondi à la borne supérieure par palier de 10%. 
+ 
+ 
+2. LE PLAFOND DE 15% 
+La pondération maximum d’une valeur dans l’indice TUNINDEX est limitée à 15% de la 
+capitalisation flottante de l’indice, de manière à éviter la sur-pondération d’une valeur 
+et à assurer une bonne représentation de l’échantillon. Si le poids d’une des valeurs 
+dépasse cette limite, il sera alors ramené à 15% par l’intermédiaire d’un facteur appelé 
+«  facteur de plafonnement ».  
+ 
+ 
+3. CALCUL DE L’INDICE TUNINDEX  
+L’indice TUNINDEX est calculé sur la base de la capitalisation flottante selon la formule 
+suivante : 
+ 
+t 
+en
+ 
+(ajustée)
+ n
+échantillo
+l' 
+de
+ 
+base
+ 
+de
+ 
+tion
+Capitalisa
+t 
+en
+ n
+échantillo
+l' 
+de
+ 
+flottante
+ 
+boursière
+ 
+tion
+Capitalisa
+I t
+×
+= 1000
+ 
+(
+)
+°
+×
+×
+×
+×
+×
+=
+∑
+=
+CB
+k
+Ci
+f
+F
+Qi
+t
+N
+i
+t
+t
+i
+t
+i
+t
+1
+t  
+1000
+ I
+ 
+où   
+        t      Jour de calcul 
+ 
+N    Nombre de valeurs de l’échantillon  
+ 
+Qit     Nombre de titres retenu dans l’indice pour la valeur i à la date t 
+Fit     Facteur flottant de la valeur i 
+fit     Facteur de plafonnement de la valeur i 
+Cit   Cours de la valeur i au jour t 
+ 
+CB° Capitalisation boursière de l’échantillon le jour de base 
+
+
+Page 9:
+Bourse des Valeurs Mobilières de Tunis  
+                 
+Document mis à jour : Décembre 2012 
+ 
+ 
+8
+ 
+Kt    Coefficient d’ajustement global au jour t applicable à la capitalisation 
+boursière de base. 
+ 
+4. CALCUL DES INDICES SECTORIELS   
+Les indices sectoriels sont pondérés par les capitalisations boursières flottantes : 
+- 
+le facteur flottant de chaque valeur dans les indices sectoriels est le même que 
+celui utilisé dans le calcul de l’indice TUNINDEX ; 
+- 
+la capitalisation flottante de chaque valeur dans les indices sectoriels est la 
+même que celle retenue dans l’indice TUNINDEX. 
+ 
+ 
+V. 
+DIFFUSION 
+La publication des indices est assurée par la Bourse de Tunis.  
+Les indices sont publiés à la clôture de la séance, indépendamment du nombre de 
+valeurs cotées, réservées ou suspendues.  
+Le Comité des Indices Boursiers a posé certaines conditions pour qu’un indice 
+sectoriel fasse l’objet d’une publication : 
+- 
+l’échantillon doit comprendre au moins quatre valeurs du secteur considéré ; 
+- 
+la capitalisation du secteur représente plus de 2% de la capitalisation de l’indice 
+TUNINDEX.  
+La publication d’un indice sectoriel est arrêtée quand le nombre de valeurs qui le 
+compose devient inférieur à 3. 
+
+
+Page 10:
+Bourse des Valeurs Mobilières de Tunis  
+                 
+Document mis à jour : Décembre 2012 
+ 
+ 
+9
+METHODOLOGIE ET CALCUL DE L’INDICE TUNINDEX20 
+ 
+I. 
+UNINVERS ELIGIBLE 
+L’univers de l’indice est celui des 25 premières capitalisations boursières flottantes 
+admises aux marchés des titres de capital de la Bourse, cotées en continu et dont la 
+période de séjour est supérieure à un mois. Seule la ligne de cotation la plus active est 
+retenue par émetteur. 
+ 
+II. 
+REVISION DE L’ECHANTILLON 
+La composition de l’indice fait l’objet d’une révision régulière effectuée annuellement 
+en décembre et de révisions exceptionnelles effectuées trimestriellement en mars, juin 
+et septembre afin de garantir une bonne représentativité de l’indice. 
+ 
+1. REVISION REGULIERE 
+ 
+La mise à jour de l’échantillon de l’indice est effectuée annuellement, au mois de 
+décembre avec comme date d’effet le 1er jour ouvrable du mois de janvier. 
+ 
+Critères de sélection  
+ 
+A partir de l’univers éligible, les 15 plus grandes valeurs vérifiant un taux de rotation 
+minimum sont sélectionnées pour faire partie de l’échantillon de l’indice. Les 10 
+valeurs restantes sont rangées selon leur taille (capitalisations boursières flottantes) et 
+leur liquidité (volume, taux de rotation, fréquence de cotation, fourchette de marché). 
+Un rang final est attribué pour chaque valeur (égal à la somme des rangs attribués 
+pour chaque critère) et les 5 premières valeurs sont ajoutées à l’échantillon de l’indice. 
+Dans le cas où des valeurs sont ex aequo, le critère subsidiaire sera la capitalisation 
+boursière flottante. 
+Taux de rotation minimum : le 10éme centile des taux de rotation des valeurs cotées en 
+continu c.à.d. la valeur telle que 90% des valeurs cotées en continu ont un taux de 
+rotation supérieur et 10% ont un taux de rotation inférieur  
+
+
+Page 11:
+Bourse des Valeurs Mobilières de Tunis  
+                 
+Document mis à jour : Décembre 2012 
+ 
+ 
+10
+Données 
+ 
+La capitalisation boursière flottante d’une valeur est calculée sur la base des 
+informations prises à la clôture du dernier jour ouvrable de la première quinzaine du 
+mois de décembre et des facteurs flottants révisés non arrondis 
+Les critères de liquidité sont déterminés à partir des données quotidiennes des 12 
+mois précédant la réunion du Comité des indices Boursiers (du 01/12/N-1 au 30/11/N) 
+selon les définitions ci-après. Pour une valeur nouvellement introduite, les données 
+sont calculées 10 jours de bourse après la première cotation effective. 
+Le taux de rotation 
+Le taux de rotation d’une valeur est le rapport entre le nombre de titres échangés sur le 
+marché central et le nombre de titres flottants de cette valeur (le facteur flottant utilisé 
+est non arrondi). La mesure retenue est la moyenne des taux de rotation quotidiens. 
+ 
+Volume 
+C’est la moyenne des capitaux échangés quotidiennement sur le marché central. 
+ 
+La fréquence de cotation 
+La fréquence de cotation d’une valeur est le rapport entre le nombre de séances de 
+cotation de cette valeur et le nombre de séances de bourse. 
+ 
+La fourchette de marché ou spread 
+La fourchette de marché d’une valeur mesure l’écart en % entre la meilleure offre et la 
+meilleure demande de cette valeur comparé par rapport à la moyenne de ces deux prix. 
+ 
+ 
+ 
+2. REVISION EXCEPTIONNELLE : SORTIE/ ENTREE RAPIDE 
+ 
+Des révisions exceptionnelles peuvent être effectuées trimestriellement, au mois de 
+mars, juin et septembre avec comme date d’effet le 1er jour ouvrable du mois d’avril, 
+juillet et octobre. 
+  
+ 
+ 
+ 
+ 
+
+
+Page 12:
+Bourse des Valeurs Mobilières de Tunis  
+                 
+Document mis à jour : Décembre 2012 
+ 
+ 
+11
+Sortie rapide   
+ 
+Une valeur appartenant à l’échantillon de l’indice et  
+a) 
+dont le rang en terme de capitalisation boursière flottante est 
+supérieur à 25 ou 
+b) 
+est transférée au fixing ou 
+c) 
+est transférée dans le groupe spécial ou  
+d) 
+est suspendue de cotation pendant une période de 2 mois 
+sortira de l’échantillon de l’indice et la valeur éligible à l’indice dont la capitalisation 
+boursière flottante est la plus élevée, vérifiant le taux de rotation minimum lors de la 
+révision annuelle entrera dans l’indice. 
+ 
+Entrée rapide   
+ 
+Une valeur éligible à l’indice vérifiant le taux de rotation minimum lors de la révision 
+annuelle, et dont le rang en terme de capitalisation boursière flottante est inférieur ou 
+égal à 15  entrera dans l’indice et  la valeur, dont la capitalisation boursière flottante 
+est la plus faible, sortira de l’indice.  
+En cas de radiation d’une valeur entre deux révisions exceptionnelles, la valeur éligible 
+à l’indice dont la capitalisation boursière flottante est la plus élevée vérifiant le taux de 
+rotation minimum lors de la révision annuelle entrera dans l’indice. 
+ 
+Précision : dans le cas d’une valeur nouvellement introduite, son taux de rotation 
+(calculé à partir des données prises 10 jours de bourse après la première cotation 
+effective) doit vérifier le taux de rotation minimum établi lors de la révision annuelle.  
+ 
+Données 
+ 
+La capitalisation boursière flottante d’une valeur est calculée sur la base des 
+informations prises à la clôture du dernier jour ouvrable de la première quinzaine du 
+mois de mars, juin et septembre et des facteurs flottants non arrondis. 
+ 
+
+
+Page 13:
+Bourse des Valeurs Mobilières de Tunis  
+                 
+Document mis à jour : Décembre 2012 
+ 
+ 
+12
+III. 
+CALCUL ET DIFFUSION 
+L’indice TUNINDEX20 est pondéré par les capitalisations boursières flottantes. 
+Il utilise les mêmes règles de calcul et de diffusion que celles de l’indice TUNINDEX. 
+ 
+ 
+ 
+ 
+ 
+
+
+Page 14:
+Bourse des Valeurs Mobilières de Tunis  
+                 
+Document mis à jour : Décembre 2012 
+ 
+ 
+13
+REVISIONS DU FLOTTANT ET DU PLAFONNEMENT POUR LA 
+GAMME D’INDICES 
+Le flottant est calculé une fois par an sur la base des informations disponibles 
+jusqu’au dernier jour ouvrable de la première quinzaine du mois de décembre, auprès 
+de la Bourse. Il sera arrondi à la borne supérieure par palier de 10%.  
+Toutefois, il n’est pas retenu le palier supérieur de 10% lorsque la valeur du flottant 
+calculé est comprise entre : [10% et 11%[ ; [20% et 21%[ ; … ; [90% et 91%[. 
+Cette mise à jour est publiée après la réunion du Comité des Indices Boursiers du mois 
+de décembre, pour une prise d’effet le 1er jour ouvrable du mois de janvier. 
+Des révisions exceptionnelles, entre deux révisions annuelles, peuvent être effectuées 
+par la Bourse de Tunis, si la part du nouveau flottant calculé, après arrondi, vient à être 
+modifiée d’au moins 10% par rapport au précédent flottant arrondi suite à un 
+événement qui a reçu l’autorisation du Conseil du Marché Financier ou dans le cas de 
+franchissements de seuils modifiant le flottant arrondi d’au moins 2 paliers. Ces 
+révisions exceptionnelles seront publiées au bulletin de la Bourse pour une prise 
+d’effet 2 jours ouvrables après cette publication.  
+Les facteurs de plafonnement sont calculés une fois par an sur la base des 
+informations prises à la clôture du dernier jour ouvrable de la première quinzaine du 
+mois de décembre. Cette mise à jour est publiée (en même temps que les flottants) 
+après la réunion du Comité des Indices Boursiers du mois de décembre, pour une 
+prise d’effet le 1er jour ouvrable du mois de janvier. 
+Le Comité des Indices Boursiers pourra décider de procéder exceptionnellement à une 
+révision du facteur de plafonnement pour les valeurs plafonnées, si le capital s’en 
+trouve être modifié significativement, ou si la pondération des valeurs dans l’indice, 
+suite à des opérations exceptionnelles, vient à être modifié significativement. Ces 
+ajustements exceptionnels des facteurs de plafonnement seront publiés au bulletin de 
+la Bourse, et prendront effet 2 jours ouvrables après cette publication.  
+ 
+TNVWAP20 
+Pour l’indice TNVWAP20,  le flottant d’une valeur est arrondi à la borne supérieure par 
+palier de 5% et le poids maximum d’une valeur dans l’indice est limitée à 10% de la 
+capitalisation flottante de l’indice. 
+Toutefois, il n’est pas retenu le palier  supérieur de 5% lorsque la valeur du flottant 
+calculé est comprise entre : [5% et 6%[ ; [10% et 11%[ ; … ; [95% et 96%[. 
+
+
+Page 15:
+Bourse des Valeurs Mobilières de Tunis  
+                 
+Document mis à jour : Décembre 2012 
+ 
+ 
+14
+LES MODALITES D’AJUSTEMENT DES INDICES 
+PRINCIPE : Les titres connaissent tout au long de leur vie un certain nombre 
+d’opérations dites opérations sur titres, qui impactent leurs cours en bourse. 
+Cet impact parfaitement explicable n’est pas cependant en rapport direct avec les 
+mécanismes fondamentaux du marché en termes d’offre et de demande. Sa prise en 
+compte, sans précaution, au niveau de l’indice est susceptible de provoquer une 
+rupture dans l’évolution de ce dernier sans rapport avec les tendances du marché et 
+de nature à fausser la mesure de performance que l’indice est censé donner. 
+En effet, une réduction du  nominal d’une action donnée (sans réduction du capital) 
+n’appauvrit pas l’actionnaire même si elle s’accompagne nécessairement de la baisse 
+du cours de l’action en cause. L’indice auquel appartient cette action doit pouvoir 
+traduire cette réalité. 
+Ainsi faut-il éviter toute rupture de l’indice et lui assurer la continuité requise. Pour ce 
+faire, il est nécessaire de procéder à des ajustements de manière à neutraliser l’effet de 
+l’opération en question de telle sorte que, les cours des titres non concernés étant 
+supposés rester les mêmes que la veille, l’indice lui-même demeure inchangé soit : 
+Indice du jour avant l’ouverture du marché = Indice de la veille 
+ 
+L’ajustement nécessaire dans ce cas pour que soit vérifiée l’égalité entre l’indice du 
+jour avant l’ouverture et celui de la veille passe par la correction de la capitalisation de 
+base. 
+ 
+De It   = It-1,  se déduit  que : 
+
+
+
+
+
+
+∆
++
+=
+×
+=
+
+
+
+
+
+
+∆
++
+×
+=
+−
+−
+−
+−
+1
+1
+1
+1
+1
+1
+t
+t
+t
+t
+t
+t
+t
+CB
+CB
+k
+avec
+CBA
+k
+CB
+CB
+CBA
+CBA
+ 
+où  
+It-1       le dernier indice diffusé avant modification 
+It         l’indice calculé après modification 
+kt   
+est le coefficient d’ajustement applicable à la capitalisation de base ajustée, 
+CBAt-1, à l’occasion d’une opération intervenant à la date t 
+CBt-1  est la capitalisation flottante de clôture à t-1 (avant modification de l’échantillon) 
+CBAt-1 est la capitalisation de base ajustée avant modification 
+CBAt  est la capitalisation de base ajustée après modification 
+∆∆∆∆CB est la variation de capitalisation induite par l’opération 
+ 
+De l'ensemble des opérations ayant modifié la capitalisation de base depuis la date de 
+
+
+Page 16:
+Bourse des Valeurs Mobilières de Tunis  
+                 
+Document mis à jour : Décembre 2012 
+ 
+ 
+15
+base découle que CBAt = ktCBAt-1 = ktkt-1CBAt-2 = ktkt-1 ...k1CBA0 
+D’où CBAt = KtCBA0 avec  Kt = ktkt-1...k1 
+Avec Kt, le coefficient d'ajustement global applicable à la capitalisation de base, CBA0, 
+à l'occasion de l'événement intervenant à la date t. 
+ 
+LES PRINCIPAUX CAS D’AJUSTEMENT  
+I-  ADMISSION D’UNE NOUVELLE VALEUR DANS L’ECHANTILLON DE L’INDICE 
+L’admission d'une nouvelle valeur dans l’échantillon intervient par décision du Comité 
+des Indices Boursiers. 
+La capitalisation de la nouvelle valeur est ajoutée à la capitalisation globale de l’indice. 
+Le coefficient d’ajustement est alors égal à  
+
+
+
+
+
+
+∆
++
+=
+−1
+1
+t
+t
+CB
+CB
+k
+ 
+où 
+1
+−
+×
+×
+×
+=
+∆
+t
+t
+t
+t
+C
+f
+F
+Q
+CB
+ 
+avec: 
+        kt   
+est le coefficient d’ajustement applicable à la capitalisation de base ajustée, 
+CBAt-1. 
+ 
+CBt-1  est la capitalisation boursière flottante de la veille (t-1).  
+ 
+Qt  
+est le nombre de titres retenu dans l’indice à t sur la nouvelle valeur 
+ 
+Ct-1  
+est le dernier cours de la nouvelle valeur  
+         Ft       est le facteur flottant  
+         ft        est le facteur de plafonnement  
+ 
+II-  MISE EN PAIEMENT DE DIVIDENDES 
+Le jour de mise en paiement des dividendes (statutaire ou exceptionnel), le nombre de 
+titres admis dans l’indice (Qt) est inchangé et le cours de la valeur est amputé du 
+montant du dividende versé : 
+Dn
+C
+C
+t
+t
+−
+=
+−1
+ 
+où   
+      Ct-1 est le dernier cours de la valeur  
+       Dn est le dividende à verser. 
+ 
+La capitalisation globale de l'indice est ajustée, par décapitalisation du montant du 
+dividende versé. Il y a donc calcul du coefficient d'ajustement. 
+Le coefficient d’ajustement est alors égal à  
+
+
+
+
+
+
+∆
+−
+=
+−1
+1
+t
+t
+CB
+CB
+k
+ 
+où 
+Dn
+f
+F
+Q
+CB
+t
+t
+t
+×
+×
+×
+=
+∆
+ 
+
+
+Page 17:
+Bourse des Valeurs Mobilières de Tunis  
+                 
+Document mis à jour : Décembre 2012 
+ 
+ 
+16
+ 
+avec: 
+         Ft       est le facteur flottant  
+         ft        est le facteur de plafonnement  
+ 
+III-  ATTRIBUTION GRATUITE D'ACTIONS 
+L’attribution gratuite d’actions peut se réaliser en bourse de différentes manières, dont 
+les plus courantes sont : 
+III -1  Le détachement du droit d'attribution et l'assimilation des actions nouvelles ont 
+lieu le même jour 
+Le nombre de titres de la valeur est augmenté du nombre d'actions nouvelles 
+distribuées et le cours est amputé du droit d'attribution. La capitalisation globale de 
+l'indice demeure inchangée, il n'y a donc pas de calcul du coefficient d'ajustement. 
+ 
+III -2  le détachement du droit d'attribution n’est pas accompagné par l'assimilation des 
+actions nouvelles gratuites 
+Le droit d’attribution est déterminé comme suit : 
+(
+)
+Dn
+C
+A
+N
+N
+da
+t
+−
+
+
+
+
+
+
++
+=
+−1
+x
+ 
+où N     est le nombre de titres nouvellement émis 
+ 
+A     est le nombre de titres anciens 
+ 
+Ct-1  est le dernier cours de la valeur  
+ 
+Dn   est le dernier dividende versé. 
+ 
+Si les actions nouvelles ont même jouissance que les anciennes, Dn est égal à zéro. 
+Le cours est ajusté en le réduisant de  la valeur théorique du droit d’attribution (da) 
+da
+C
+C
+t
+t
+−
+=
+−1
+, et la capitalisation globale de l’indice est dans ce cas ajustée, par 
+décapitalisation du droit théorique d’attribution sur le nombre de titres admis à t de la 
+valeur concernée. 
+Le coefficient d’ajustement est égal à  
+
+
+
+
+
+
+∆
+−
+=
+−1
+1
+t
+t
+CB
+CB
+k
+ 
+où  
+a
+f
+F
+t
+t
+d
+Q
+∆CB
+t
+×
+×
+×
+=
+ 
+avec: 
+         Ft       est le facteur flottant  
+         ft        est le facteur de plafonnement  
+
+
+Page 18:
+Bourse des Valeurs Mobilières de Tunis  
+                 
+Document mis à jour : Décembre 2012 
+ 
+ 
+17
+         da      est la valeur théorique du droit  
+         Qt         est le nombre de titres admis dans l’indice au moment du détachement 
+(Qt=Qt-1) 
+ 
+Lorsque les nouveaux titres sont assimilés, l'opération se traite de la même façon 
+qu'une assimilation d'actions, par capitalisation des nouveaux titres (décrite ci-
+dessous). 
+ 
+IV -  EMISSIONS EN NUMERAIRE 
+L’émission en numéraire de nouvelles actions peut se réaliser en bourse de différentes 
+manières, dont les plus courantes sont : 
+IV-1  Emission sans droit de souscription 
+Les caractéristiques de la valeur sont inchangées. La capitalisation globale de l'indice 
+demeure la même,  il n'y a donc pas de calcul du coefficient d'ajustement. 
+ 
+IV-2  Emission avec droit de souscription 
+Le droit de souscription est déterminé comme suit : 
+(
+)
+Dn
+PE
+C
+A
+N
+N
+ds
+t
+−
+−
+
+
+
+
+
+
++
+=
+−1
+x
+ 
+où N est le nombre d’actions nouvelles à émettre 
+ 
+A est le nombre d’actions anciennes 
+ 
+Ct-1 est le dernier cours de la valeur  
+ 
+PE est le prix d’émission des actions nouvelles 
+ 
+Dn est le dernier dividende versé. 
+ 
+Si les actions nouvelles ont même jouissance que les anciennes, Dn est égal à zéro. 
+Le cours est ajusté en le réduisant de la valeur théorique du droit de souscription (ds) 
+ds
+C
+C
+t
+t
+−
+=
+−1
+ et la capitalisation globale de l’indice est dans ce cas ajustée, par 
+décapitalisation du droit théorique de souscription sur le nombre de titres admis à t de 
+la valeur concernée. 
+Le coefficient d’ajustement est égal à  
+
+
+
+
+
+
+∆
+−
+=
+−1
+1
+t
+t
+CB
+CB
+k
+ 
+où  
+s
+f
+F
+t
+t
+d
+Q
+∆CB
+t
+×
+×
+×
+=
+ 
+avec: 
+
+
+Page 19:
+Bourse des Valeurs Mobilières de Tunis  
+                 
+Document mis à jour : Décembre 2012 
+ 
+ 
+18
+         Ft       est le facteur flottant  
+         ft        est le facteur de plafonnement  
+         ds      est la valeur théorique du droit  
+         Qt         est le nombre de titres admis dans l’indice au moment du détachement 
+(Qt=Qt-1) 
+ 
+Lorsque les nouveaux titres sont assimilés, l'opération se traite de la même façon 
+qu'une assimilation d'actions, par capitalisation des nouveaux titres (décrite ci-
+dessous). 
+ 
+V-  EMISSION D'ACTIONS EN NUMERAIRE ET ATTRIBUTION GRATUITE  D'ACTIONS  
+V-1  L'assimilation des actions gratuites et le détachement des droits d'attribution et de 
+souscription ont lieu le même jour 
+Le droit théorique global est : 
+(
+)
+
+
+
+
+
+
++
++
++
+×
++
+×
++
+×
+−
+=
+−
+−
+2
+1
+2
+1
+1
+1
+N
+N
+A
+Dn
+PE
+N
+Dn
+N
+C
+A
+C
+d
+t
+t
+ 
+avec : 
+Ct-1  
+: dernier cours de la valeur 
+PE  
+: prix d’émission des actions nouvelles 
+Dn  
+: La différence de jouissance en dividende entre les actions nouvelles et les 
+actions anciennes. La référence est le dernier dividende versé (Exemple : une société a 
+distribué en 2005, un dividende de 1,000DT relatif à l’exercice 2004 et a procédé au 
+cours de l’exercice 2005 à une augmentation de capital et les actions nouvelles 
+jouissent en dividende à partir du 01/10/2005.  
+Dn = 
+DT
+soit
+750
+,0
+),
+4
+/
+3
+(
+*
+1
+) 
+A  
+: Nombre d’actions anciennes 
+N1  
+: Nombre de titres nouveaux lié à l’attribution  
+N2  
+: Nombre de titres nouveaux lié à la souscription 
+ 
+Le nombre de titres de la valeur est augmenté du nombre d'actions nouvelles gratuites 
+et le cours coté est amputé d’un droit global égal à la somme des valeurs du droit 
+d'attribution et du droit de souscription. 
+L’opération est assimilée aux points III-1 suivi du IV.2 (détachement du droit 
+d'attribution et l'assimilation des actions nouvelles gratuites et détachement du droit 
+de souscription). Ainsi, la capitalisation de la valeur est dans ce cas ajustée, par 
+décapitalisation uniquement du droit théorique de souscription sur le nombre de titres 
+anciens. 
+
+
+Page 20:
+Bourse des Valeurs Mobilières de Tunis  
+                 
+Document mis à jour : Décembre 2012 
+ 
+ 
+19
+La capitalisation globale de l'indice est modifiée : il y a calcul du coefficient 
+d'ajustement. 
+Le droit théorique de souscription est ainsi défini : ds = d - da 
+Avec   ds  : droit théorique de souscription 
+ 
+da  : droit théorique d'attribution 
+ 
+d  : droit théorique global 
+Le coefficient d’ajustement est alors égal à  
+
+
+
+
+
+
+∆
+−
+=
+−1
+1
+t
+t
+CB
+CB
+k
+ 
+où  
+ds
+f
+Q
+∆CB
+t
+1-t
+×
+×
+×
+=
+t
+F
+ 
+avec  Qt-1 est nombre de titres admis dans l’indice à t-1 
+           Ft    est le facteur flottant 
+ 
+   ft     est le facteur de plafonnement 
+ 
+V-2  L'assimilation des actions gratuites n'accompagne pas le détachement des droits 
+d'attribution et de souscription 
+Le nombre de titres est inchangé, seul le cours est ajusté des droits. La capitalisation 
+globale de l'indice est modifiée, par décapitalisation du droit théorique global 
+(attribution + souscription) sur le nombre de titres anciens. Il y a donc dans ce cas 
+calcul du coefficient d'ajustement. 
+Le coefficient d’ajustement est alors égal à  
+
+
+
+
+
+
+∆
+−
+=
+−1
+1
+t
+t
+CB
+CB
+k
+ 
+où  
+d
+f
+Q
+∆CB
+t
+1-t
+×
+×
+×
+=
+t
+F
+ 
+avec  Qt-1 est nombre de titres admis dans l’indice à t-1 
+           Ft    est le facteur flottant 
+ 
+   ft     est le facteur de plafonnement 
+          d     est le droit théorique global (attribution + souscription) 
+ 
+VI-  RETRAIT D'UNE VALEUR 
+Le retrait d'une valeur de l’échantillon peut intervenir soit par une radiation de la cote, 
+soit par décision du Comité des Indices Boursiers. 
+La capitalisation de la valeur sortante est déduite de la capitalisation globale de 
+l’indice. 
+Le coefficient d’ajustement est alors égal à 
+
+
+
+
+
+
+∆
+−
+=
+−1
+1
+t
+t
+CB
+CB
+k
+ 
+où  
+(
+)
+1
+t
+1
+t xC
+Q
+∆CB
+−
+−
+=
+ 
+
+
+Page 21:
+Bourse des Valeurs Mobilières de Tunis  
+                 
+Document mis à jour : Décembre 2012 
+ 
+ 
+20
+ 
+ Qt-1 est le nombre de titres admis dans l’indice à t-1 sur la valeur retirée 
+ 
+ Ct-1 est le cours de la valeur retirée 
+ 
+VII-  REDUCTION DU CAPITAL 
+La réduction du capital peut se réaliser en bourse de différentes manières, dont les 
+plus courantes sont : 
+VII-1  Par abaissement de la valeur nominale 
+VII-1-1  Cas de remboursement d’une partie du capital  
+L'opération se traite de la même façon qu'une mise en paiement des dividendes.  
+Le jour de remboursement, le nombre de titres admis dans l’indice (Qt) est inchangé et 
+le cours de la valeur est amputé du montant du capital à rembourser par action (à 
+verser) :
+Vn
+C
+C
+t
+t
+−
+=
+−1
+ 
+avec : 
+Ct-1 est le dernier cours de la valeur  
+Vn est le montant du capital à rembourser. Il correspond à la valeur qui viendra en 
+diminution du cours boursier de la veille Ct-1. 
+La capitalisation globale de l'indice est ajustée, par décapitalisation du montant du 
+capital versé aux actionnaires.  
+Le coefficient d’ajustement est alors égal à  
+
+
+
+
+
+
+∆
+−
+=
+−1
+1
+t
+t
+CB
+CB
+k
+ 
+où    
+(
+)
+t
+t
+t
+t
+t
+C
+C
+f
+F
+Q
+−
+×
+×
+×
+=
+−
+−
+1
+1
+∆CB
+ 
+avec : 
+         Qt-1  est nombre de titres admis dans l’indice à t-1 
+           Ft    est le facteur flottant 
+ 
+   ft     est le facteur de plafonnement 
+          Ct-1  est le dernier cours de la valeur  
+          Ct     est le cours ajusté de la valeur 
+ 
+VII-1-2 Cas de réduction simple par abaissement de la valeur nominale pour absorption 
+de perte 
+La réduction du capital pour absorption de perte au moyen d’un abaissement de la 
+valeur nominale n’affecte pas la capitalisation courante de la valeur. Ainsi, les 
+caractéristiques de la valeur sont inchangées (titres admis et cours). La capitalisation 
+globale de l'indice demeure la même,  il n'y a donc pas de calcul du coefficient 
+d'ajustement. 
+ 
+
+
+Page 22:
+Bourse des Valeurs Mobilières de Tunis  
+                 
+Document mis à jour : Décembre 2012 
+ 
+ 
+21
+VII-2  Par annulation d’actions 
+VII-2.1  Cas de réduction du capital par simple annulation d’actions  
+De la capitalisation globale de l’indice, est déduite la baisse de capitalisation de la 
+valeur correspondant aux actions annulées. 
+Le coefficient d’ajustement est alors égal à  
+
+
+
+
+
+
+∆
+−
+=
+−1
+1
+t
+t
+CB
+CB
+k
+ 
+où 
+1
+t
+t
+C
+Q
+∆CB
+−
+×
+×
+×
+=
+t
+t
+f
+F
+ 
+avec : 
+          Qt     est le nombre de titres annulés à t 
+          Ft     est le facteur flottant 
+ 
+  ft      est le facteur de plafonnement 
+          Ct-1  est le dernier cours de la valeur  
+ 
+VII-2-2  Cas de réduction du capital par annulation d’actions pour absorption de perte 
+La réduction du capital pour absorption de perte au moyen de réduction de nombre de 
+titres n’affecte pas la capitalisation courante de la valeur. Ainsi, la capitalisation de la 
+valeur reste inchangée et la capitalisation globale de l'indice demeure la même.   
+Le nombre de titres de la valeur est diminué du nombre d'actions annulées et le cours 
+est ajusté de sorte que la capitalisation de la valeur de l'indice demeure inchangée, il 
+n'y a donc pas de calcul du coefficient d'ajustement. 
+ 
+VIII-  ASSIMILATION DES ACTIONS NOUVELLES  
+Lorsque des nouvelles actions sont assimilées aux anciennes, le nombre de titres 
+admis (Qt) est augmenté du nombre d'actions nouvelles admises et la capitalisation 
+globale de l'indice est modifiée. Le cours est inchangé, il y a donc calcul du coefficient 
+d'ajustement 
+Les opérations susceptibles d'augmenter la capitalisation boursière par création de 
+nouveaux titres et n'affectant pas le cours sont principalement : L’admission et 
+l’assimilation d’actions nouvelles issues d’une augmentation de capital ; L’admission 
+de titres suite à un apport ou une fusion-absorption. 
+La capitalisation globale de l'indice est modifiée, par capitalisation des nouveaux 
+titres. 
+Le coefficient d’ajustement est alors égal à  
+
+
+
+
+
+
+∆
++
+=
+−1
+1
+t
+t
+CB
+CB
+k
+ 
+où 
+1
+t
+t
+C
+Q
+∆CB
+−
+×
+×
+×
+=
+t
+t
+f
+F
+ 
+
+
+Page 23:
+Bourse des Valeurs Mobilières de Tunis  
+                 
+Document mis à jour : Décembre 2012 
+ 
+ 
+22
+avec : 
+  
+    Qt      est le nombre d’actions nouvelles qui sont admises à t 
+          Ft     est le facteur flottant 
+ 
+  ft      est le facteur de plafonnement 
+         Ct-1    est le dernier cours de la valeur  
+ 
+IX- DIVISION & REGROUPEMENT DE TITRES  
+Une division par abaissement de la valeur nominal ou un regroupement de titres par 
+élévation du nominal n'affecte pas la capitalisation courante de la valeur. La 
+capitalisation globale de l'indice demeure inchangée : il n'y a donc pas de calcul du 
+coefficient d'ajustement. Le nouveau nombre de titres est inclus dans le calcul de 
+l'indice dès que la valeur est échangée ex-division ou regroupement. 
+ 
+X-  LES OFFRES PUBLIQUES  
+Pendant la période de suspension de cotation précédant une offre publique (OPA, 
+OPE), le cours pris en compte pour le calcul de l'indice est le dernier cours de 
+référence tant que l'avis d’ouverture n'est pas publié,  par le Conseil du Marché 
+Financier. 
+Le lendemain de la publication de l'avis d’ouverture ou de l’avis de recevabilité et ce 
+jusqu'à la reprise des cotations, le cours pris en compte pour le calcul de l'indice est le 
+prix de l’OPA, OPE (ou les prix successifs, en cas d’enchérissement).  
+ 
+ 
+ 
