@@ -14,7 +14,7 @@ logger = logging.getLogger(__name__)
 # Directories
 MODELS_DIR = os.path.join(settings.MEDIA_ROOT, "predictions/models/")
 RESULTS_DIR = os.path.join(settings.MEDIA_ROOT, "predictions/results/")
-DATA_DIR = os.path.join(settings.MEDIA_ROOT, "extracted_companies_testRL/")
+DATA_DIR = os.path.join(settings.MEDIA_ROOT, "extracted_companies/")
 FEATURES_DIR = os.path.join(settings.MEDIA_ROOT, "predictions/features/")
 
 os.makedirs(MODELS_DIR, exist_ok=True)
