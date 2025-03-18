@@ -4,9 +4,43 @@ import pandas as pd
 from django.conf import settings
 from django.http import JsonResponse
 from django.views.decorators.csrf import csrf_exempt
-
+from .utils import run_portfolio_analysis, get_companies_by_sectors
 @csrf_exempt
 def get_companies(request):
+    if request.method == "POST":
+        try:
+            data = json.loads(request.body)
+            # Extract parameters sent from the frontend
+            selected_sectors = data.get("sectors", [])
+            risk_amount = float(data.get("risk_amount", 0.60))
+            investment_amount = float(data.get("investment_amount", 10000))
+            
+            # Get companies based on the selected sectors (sector names must match the Excel file)
+            companies_list = get_companies_by_sectors(selected_sectors)
+            
+            # File paths (adjust as needed)
+            csv_path = r"C:\Users\USER\Desktop\Investment Platform\portopt\media\stock_tn.csv"
+            json_output_path = r"C:\Users\USER\Desktop\Investment Platform\portopt\media\portfolios.json"
+            
+            # Run the optimization analysis
+            results = run_portfolio_analysis(
+                tickers_list=companies_list,
+                risk_amount=risk_amount,
+                capital_invested=investment_amount,
+                csv_path=csv_path,
+                json_output_path=json_output_path
+            )
+            return JsonResponse(results, safe=False)
+        except Exception as e:
+            return JsonResponse({"error": str(e)}, status=400)
+    else:
+        return JsonResponse({"error": "Only POST requests allowed."}, status=405)
+
+
+
+
+
+    '''
     if request.method == "POST":
         try:
             data = json.loads(request.body)
@@ -35,4 +69,6 @@ def get_companies(request):
         except Exception as e:
             return JsonResponse({"error": str(e)}, status=500)
     else:
-        return JsonResponse({"error": "Invalid HTTP method."}, status=405)
+        return JsonResponse({"error": "Invalid HTTP method."}, status=405)'
+        '''
+    

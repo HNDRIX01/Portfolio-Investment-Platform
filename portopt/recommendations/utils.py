@@ -499,32 +499,7 @@ def get_companies_by_sectors(sectors):
     Given a list of sector names, return a list of companies 
     that belong to any of those sectors.
     """
-    df = pd.read_excel(r"C:\Users\khali\Documents\PFE\chatbot\back\chat\data\all_80_companies_with_sectors.xlsx")
+    df = pd.read_excel(r"C:\Users\USER\Desktop\Investment Platform\portopt\media\all_80_companies_with_sectors.xlsx")
     filtered_df = df[df['Sector'].isin(sectors)]
     companies = filtered_df['Company'].tolist()
     return companies
-
-
-if __name__ == "__main__":
-    sectors_to_search = ["Assurances", "Bancaire", "Leasing"]
-    companies_list = get_companies_by_sectors(sectors_to_search)
-
-    risk_value = 0.60
-    capital = 10000.0
-    data_path = r"C:\Users\khali\Documents\PFE\chatbot\back\chat\data\stock_data_test_filter.csv"
-
-    # Optionally pick a custom JSON path:
-    json_path = r"C:\Users\khali\Documents\PFE\chatbot\back\chat\data\portfolios.json"
-
-    # Run the analysis and store results in JSON
-    results_dict = run_portfolio_analysis(
-        tickers_list=companies_list,
-        risk_amount=risk_value,
-        capital_invested=capital,
-        csv_path=data_path,
-        json_output_path=json_path
-    )
-
-    # If you like, you can also inspect "results_dict" in Python directly:
-    print("\n[DEBUG] JSON results also returned as a dict:")
-    print(results_dict)
