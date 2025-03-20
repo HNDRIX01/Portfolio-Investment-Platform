@@ -2,92 +2,92 @@
     "portfolios": {
         "monte_carlo_best": {
             "weights": {
-                "AMEN BANK": 0.058674604274379864,
-                "ATB": 0.005782824181728765,
-                "ATTIJARI BANK": 0.3781636869403721,
-                "BH BANK": 0.022763865114217824,
-                "BIAT": 0.12145244273111012,
-                "BNA": 0.04847384269949542,
-                "BT": 0.010203146159387326,
-                "BTE (ADP)": 0.007750807384461737,
-                "STB": 0.018585104956125916,
-                "UBCI": 0.011206087113281984,
-                "UIB": 0.21634408817207137,
-                "WIFACK INT BANK": 0.1005995002733674
+                "ATL": 0.07588614081410233,
+                "ATTIJARI LEASING": 0.014067197546837117,
+                "BEST LEASE": 0.06348811357495973,
+                "BH LEASING": 0.02168399280877116,
+                "CIL": 0.11272389974045462,
+                "HANNIBAL LEASE": 0.0621676519469723,
+                "TUNISIE LEASING F": 0.043855567821854825,
+                "ARTES": 0.02591885695497661,
+                "CITY CARS": 0.5500809106097155,
+                "ENNAKL AUTOMOBILES": 0.006160603901675778,
+                "STA": 0.0036873330599999964,
+                "UADH": 0.02027973121967988
             },
-            "annual_return": 0.25264998121245863,
-            "volatility": 0.21756840907626343,
-            "sharpe_ratio": 0.9617663800589314
+            "annual_return": 0.10894198607327935,
+            "volatility": 0.15783463256228458,
+            "sharpe_ratio": 0.4152573171633622
         },
         "max_sharpe": {
             "weights": {
-                "AMEN BANK": 0.029003896233540917,
-                "ATB": 0.0,
-                "ATTIJARI BANK": 0.4553247254486103,
-                "BH BANK": 0.0,
-                "BIAT": 0.0,
-                "BNA": 5.192318167992443e-16,
-                "BT": 1.1630778805338213e-15,
-                "BTE (ADP)": 1.1220069469873548e-15,
-                "STB": 0.0,
-                "UBCI": 0.0,
-                "UIB": 0.2898736308108788,
-                "WIFACK INT BANK": 0.2257977475069673
+                "ATL": 0.07713012731999955,
+                "ATTIJARI LEASING": 0.032566038959937406,
+                "BEST LEASE": 0.0,
+                "BH LEASING": 1.8234925288490578e-16,
+                "CIL": 0.17051594158994673,
+                "HANNIBAL LEASE": 0.37045058869426634,
+                "TUNISIE LEASING F": 4.296828734831615e-17,
+                "ARTES": 0.0,
+                "CITY CARS": 0.32495596803848203,
+                "ENNAKL AUTOMOBILES": 0.02438133539736777,
+                "STA": 7.341742773621374e-17,
+                "UADH": 2.425902360936316e-18
             },
-            "annual_return": 0.3134887092084768,
-            "volatility": 0.2312878193940719,
-            "sharpe_ratio": 1.167760195569553
+            "annual_return": 0.12720878811428055,
+            "volatility": 0.13655321739272672,
+            "sharpe_ratio": 0.6137445145158805
         },
         "risk_constrained": {
             "weights": {
-                "AMEN BANK": 0.0,
-                "ATB": 0.0,
-                "ATTIJARI BANK": 0.9999999999999996,
-                "BH BANK": 0.0,
-                "BIAT": 0.0,
-                "BNA": 0.0,
-                "BT": 0.0,
-                "BTE (ADP)": 0.0,
-                "STB": 0.0,
-                "UBCI": 0.0,
-                "UIB": 5.273559366969492e-16,
-                "WIFACK INT BANK": 0.0
+                "ATL": 8.138522244518049e-16,
+                "ATTIJARI LEASING": 3.556914256248075e-16,
+                "BEST LEASE": 0.0,
+                "BH LEASING": 5.546411640799101e-16,
+                "CIL": 0.9999999999999974,
+                "HANNIBAL LEASE": 0.0,
+                "TUNISIE LEASING F": 3.019861124430661e-16,
+                "ARTES": 0.0,
+                "CITY CARS": 1.3877787807814444e-16,
+                "ENNAKL AUTOMOBILES": 1.8247118004824468e-16,
+                "STA": 8.219824720970268e-17,
+                "UADH": 0.0
             },
-            "annual_return": 0.4141119401092889,
-            "volatility": 0.4124951334084426,
-            "sharpe_ratio": 0.8987062151402863
+            "annual_return": 0.18736903184105066,
+            "volatility": 0.4349528997772493,
+            "sharpe_ratio": 0.33099913097436745
         }
     },
     "blended_portfolios": {
         "blend1": {
             "weights": {
-                "ATTIJARI BANK": 0.6292962698949467,
-                "UIB": 0.21888082894971486,
-                "WIFACK INT BANK": 0.15182290115533845
+                "CIL": 0.420547454468441,
+                "HANNIBAL LEASE": 0.23231450282629923,
+                "CITY CARS": 0.34713804270525983
             },
-            "annual_return": 0.34992457318540776,
-            "volatility": 0.2741562899350314,
-            "sharpe_ratio": 1.118065076158008
+            "annual_return": 0.15312648266894888,
+            "volatility": 0.2109365849796788,
+            "sharpe_ratio": 0.5201870632328656
         },
         "blend2": {
             "weights": {
-                "ATTIJARI BANK": 0.6877034201771915,
-                "UIB": 0.1898717517637711,
-                "WIFACK INT BANK": 0.12242482805903732
+                "CIL": 0.4952882539952148,
+                "HANNIBAL LEASE": 0.16697637195517212,
+                "CITY CARS": 0.3377353740496132
             },
-            "annual_return": 0.3613138736279738,
-            "volatility": 0.2925462053096409,
-            "sharpe_ratio": 1.0867133733335657
+            "annual_return": 0.16024198365482878,
+            "volatility": 0.23773439514771885,
+            "sharpe_ratio": 0.4914811909409564
         },
         "blend3": {
             "weights": {
-                "ATTIJARI BANK": 0.8833520741592429,
-                "UIB": 0.116647925840757
+                "CIL": 0.7895674247834321,
+                "CITY CARS": 0.21043257521656783
             },
-            "annual_return": 0.40504473811411945,
-            "volatility": 0.3672193305166501,
-            "sharpe_ratio": 0.984819447291384
+            "annual_return": 0.18137020135291076,
+            "volatility": 0.35004545316418983,
+            "sharpe_ratio": 0.3941493886172418
         }
     },
-    "estimated_portfolio_value": 10748.41472681696
+    "estimated_portfolio_value": 11997.161903902044
 }
