@@ -1,27 +1,29 @@
-"use client";
+"use client"
 
-import React, { useState, useRef, useEffect, ChangeEvent, KeyboardEvent } from "react";
-import { AnimatePresence, motion } from "framer-motion";
-import { MessageSquare, Send, X, Minimize2, User, Bot } from "lucide-react";
-import { Button } from "@/components/ui/button";
-import { Input } from "@/components/ui/input";
-import { ScrollArea } from "@/components/ui/scroll-area";
-import { cn } from "@/lib/utils";
+import type React from "react"
+import { useState, useRef, useEffect, type ChangeEvent, type KeyboardEvent } from "react"
+import { AnimatePresence, motion } from "framer-motion"
+import { MessageSquare, Send, X, Minimize2, User, Bot } from "lucide-react"
+import { Button } from "@/components/ui/button"
+import { Input } from "@/components/ui/input"
+import { ScrollArea } from "@/components/ui/scroll-area"
+import { cn } from "@/lib/utils"
+import ReactMarkdown from "react-markdown"
 
 // Create a local alias that tells TypeScript our Input supports both HTML input props and ref.
 const TypedInput = Input as React.ForwardRefExoticComponent<
   React.InputHTMLAttributes<HTMLInputElement> & React.RefAttributes<HTMLInputElement>
->;
+>
 
 type Message = {
-  id: string;
-  content: string;
-  sender: "user" | "bot";
-  timestamp: Date;
-};
+  id: string
+  content: string
+  sender: "user" | "bot"
+  timestamp: Date
+}
 
 export function ChatBot() {
-  const [isOpen, setIsOpen] = useState(false);
+  const [isOpen, setIsOpen] = useState(false)
   const [messages, setMessages] = useState<Message[]>([
     {
       id: "1",
@@ -29,43 +31,43 @@ export function ChatBot() {
       sender: "bot",
       timestamp: new Date(),
     },
-  ]);
-  const [inputValue, setInputValue] = useState("");
-  const [isTyping, setIsTyping] = useState(false);
-  const messagesEndRef = useRef<HTMLDivElement>(null);
-  const inputRef = useRef<HTMLInputElement>(null);
+  ])
+  const [inputValue, setInputValue] = useState("")
+  const [isTyping, setIsTyping] = useState(false)
+  const messagesEndRef = useRef<HTMLDivElement>(null)
+  const inputRef = useRef<HTMLInputElement>(null)
 
   const toggleChat = () => {
-    setIsOpen(!isOpen);
-  };
+    setIsOpen(!isOpen)
+  }
 
   // Updated handleSendMessage to call the backend
   const handleSendMessage = async () => {
-    if (inputValue.trim() === "") return;
+    if (inputValue.trim() === "") return
 
     // Store the message value to send, then clear the input
-    const messageToSend = inputValue;
+    const messageToSend = inputValue
     const userMessage: Message = {
       id: Date.now().toString(),
       content: messageToSend,
       sender: "user",
       timestamp: new Date(),
-    };
+    }
 
-    setMessages((prev) => [...prev, userMessage]);
-    setInputValue("");
-    setIsTyping(true);
+    setMessages((prev) => [...prev, userMessage])
+    setInputValue("")
+    setIsTyping(true)
 
     try {
       const response = await fetch("http://localhost:8000/chatbot/chat/", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ message: messageToSend }),
-      });
+      })
 
-      const data = await response.json();
+      const data = await response.json()
       if (!response.ok) {
-        throw new Error(data.error || "Error processing request");
+        throw new Error(data.error || "Error processing request")
       }
 
       const botMessage: Message = {
@@ -73,9 +75,9 @@ export function ChatBot() {
         content: data.assistant,
         sender: "bot",
         timestamp: new Date(),
-      };
+      }
 
-      setMessages((prev) => [...prev, botMessage]);
+      setMessages((prev) => [...prev, botMessage])
     } catch (error) {
       setMessages((prev) => [
         ...prev,
@@ -85,34 +87,34 @@ export function ChatBot() {
           sender: "bot",
           timestamp: new Date(),
         },
-      ]);
+      ])
     } finally {
-      setIsTyping(false);
+      setIsTyping(false)
     }
-  };
+  }
 
   const handleKeyDown = (e: KeyboardEvent<HTMLInputElement>) => {
     if (e.key === "Enter") {
-      handleSendMessage();
+      handleSendMessage()
     }
-  };
+  }
 
   // Auto-scroll to bottom when messages change or typing indicator appears
   useEffect(() => {
-    messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
-  }, [messages, isTyping]);
+    messagesEndRef.current?.scrollIntoView({ behavior: "smooth" })
+  }, [messages, isTyping])
 
   // Focus input when chat opens
   useEffect(() => {
     if (isOpen) {
-      inputRef.current?.focus();
+      inputRef.current?.focus()
     }
-  }, [isOpen]);
+  }, [isOpen])
 
   // Format time to display in chat
   const formatTime = (date: Date) => {
-    return date.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
-  };
+    return date.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" })
+  }
 
   return (
     <div className="fixed bottom-4 sm:bottom-6 right-4 sm:right-6 z-50">
@@ -187,17 +189,12 @@ export function ChatBot() {
                   {messages.map((message) => (
                     <div
                       key={message.id}
-                      className={cn(
-                        "flex",
-                        message.sender === "user" ? "justify-end" : "justify-start"
-                      )}
+                      className={cn("flex", message.sender === "user" ? "justify-end" : "justify-start")}
                     >
                       <div
                         className={cn(
                           "flex gap-2 max-w-[85%]",
-                          message.sender === "user"
-                            ? "flex-row-reverse items-end"
-                            : "items-start"
+                          message.sender === "user" ? "flex-row-reverse items-end" : "items-start",
                         )}
                       >
                         {message.sender === "bot" ? (
@@ -219,15 +216,42 @@ export function ChatBot() {
                               "rounded-2xl px-4 py-2 text-sm break-words shadow-sm",
                               message.sender === "user"
                                 ? "bg-gradient-to-br from-primary to-primary/90 text-primary-foreground rounded-tr-none"
-                                : "bg-white/80 backdrop-blur-sm rounded-tl-none border"
+                                : "bg-white/80 backdrop-blur-sm rounded-tl-none border",
                             )}
                           >
-                            {message.content}
+                            {message.sender === "bot" ? (
+                              <div className="markdown-content">
+                                <ReactMarkdown
+                                  components={{
+                                    // Style headings
+                                    h1: ({ node, ...props }) => <h1 className="text-lg font-bold my-2" {...props} />,
+                                    h2: ({ node, ...props }) => <h2 className="text-md font-bold my-2" {...props} />,
+                                    h3: ({ node, ...props }) => <h3 className="text-sm font-bold my-1" {...props} />,
+
+                                    // Style lists
+                                    ul: ({ node, ...props }) => <ul className="list-disc pl-5 my-2" {...props} />,
+                                    ol: ({ node, ...props }) => <ol className="list-decimal pl-5 my-2" {...props} />,
+                                    li: ({ node, ...props }) => <li className="my-1" {...props} />,
+
+                                    // Style emphasis
+                                    strong: ({ node, ...props }) => <strong className="font-bold" {...props} />,
+                                    em: ({ node, ...props }) => <em className="italic" {...props} />,
+
+                                    // Style paragraphs
+                                    p: ({ node, ...props }) => <p className="my-1" {...props} />,
+                                  }}
+                                >
+                                  {message.content}
+                                </ReactMarkdown>
+                              </div>
+                            ) : (
+                              message.content
+                            )}
                           </div>
                           <div
                             className={cn(
                               "text-xs text-muted-foreground",
-                              message.sender === "user" ? "text-right mr-1" : "ml-1"
+                              message.sender === "user" ? "text-right mr-1" : "ml-1",
                             )}
                           >
                             {formatTime(message.timestamp)}
@@ -278,9 +302,7 @@ export function ChatBot() {
                   <TypedInput
                     ref={inputRef}
                     value={inputValue}
-                    onChange={(e: ChangeEvent<HTMLInputElement>) =>
-                      setInputValue(e.target.value)
-                    }
+                    onChange={(e: ChangeEvent<HTMLInputElement>) => setInputValue(e.target.value)}
                     onKeyDown={handleKeyDown}
                     placeholder="Type your message..."
                     className="flex-1 border-0 focus-visible:ring-0 focus-visible:ring-offset-0 bg-transparent py-2 px-0"
@@ -293,7 +315,7 @@ export function ChatBot() {
                       "h-8 w-8 rounded-full transition-all",
                       inputValue.trim() === ""
                         ? "bg-muted text-muted-foreground"
-                        : "bg-primary text-primary-foreground"
+                        : "bg-primary text-primary-foreground",
                     )}
                   >
                     <Send size={16} />
@@ -326,5 +348,6 @@ export function ChatBot() {
         )}
       </AnimatePresence>
     </div>
-  );
+  )
 }
+

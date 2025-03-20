@@ -689,21 +689,24 @@ export default function HomePage() {
                           <div className="bg-gray-50 rounded-lg p-3 flex flex-col">
                             <div className="text-xs text-gray-500 mb-1">Tendances</div>
                             <div className="flex-1 flex items-end space-x-1">
-                              {[3, 5, 4, 6, 5, 7, 8, 7, 9, 8].map((height, i) => (
-                                <div
-                                  key={i}
-                                  className={`h-${height} w-full ${i > 5 ? "bg-green-500" : "bg-primary/40"} rounded-sm`}
-                                ></div>
-                              ))}
+                            {[6, 10, 8, 12, 10, 14, 16, 14, 18, 16].map((height, i) => (
+                              <div
+                                key={i}
+                                className={`w-full rounded-sm ${i > 5 ? "bg-green-500" : "bg-primary/40"}`}
+                                style={{ height: `${height * 4}px` }} // Multiply for taller columns
+                              ></div>
+                            ))}
+
                             </div>
                           </div>
                           <div className="bg-gray-50 rounded-lg p-3 flex flex-col">
                             <div className="text-xs text-gray-500 mb-1">Répartition</div>
                             <div className="flex-1 flex items-center justify-center">
-                              <div className="w-20 h-20 rounded-full border-8 border-primary relative">
-                                <div className="absolute inset-0 border-8 border-transparent border-t-blue-400 rounded-full"></div>
-                                <div className="absolute inset-0 border-8 border-transparent border-r-green-400 rounded-full"></div>
-                              </div>
+                            <div className="w-32 h-32 rounded-full border-[12px] border-primary relative">
+                              <div className="absolute inset-0 border-[12px] border-transparent border-t-blue-400 rounded-full"></div>
+                              <div className="absolute inset-0 border-[12px] border-transparent border-r-green-400 rounded-full"></div>
+                            </div>
+
                             </div>
                           </div>
                         </div>
