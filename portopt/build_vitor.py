@@ -24,7 +24,7 @@ def load_and_chunk_texts(folder_path, chunk_size=1000, chunk_overlap=100):
 
 def build_faiss_index(docs):
     # Initialize embeddings
-    embedder = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
+    embedder = HuggingFaceEmbeddings(model_name="sentence-transformers/all-mpnet-base-v2")
     
     # Create a list of metadata dictionaries + the chunk
     metadatas = [{"source": f"chunk_{i}"} for i in range(len(docs))]

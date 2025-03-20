@@ -127,7 +127,7 @@ REST_FRAMEWORK = {
 # For production, specify allowed origins
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',  # Your React frontend
-    'http://127.0.0.1:3000',
+    'http://127.0.0.1:3000','http://127.0.0.1:8000'
 ]
 CORS_ALLOW_CREDENTIALS = True
 '''
@@ -167,5 +167,5 @@ STATIC_ROOT = BASE_DIR / 'static'
 RECAPTCHA_PUBLIC_KEY = '6LfPsc0qAAAAAC0U-uag9eVNSQQ4xSJP6GZ4pwKM'
 RECAPTCHA_PRIVATE_KEY = '6LfPsc0qAAAAAFdFnzGuO7REGXpzY0XyWsGiSU8G'
 
-CSRF_TRUSTED_ORIGINS = ['http://localhost:8000', 'http://127.0.0.1:8000']
+CSRF_TRUSTED_ORIGINS = ['http://localhost:8000', 'http://127.0.0.1:8000','http://localhost:3000']
 
